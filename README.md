@@ -165,6 +165,33 @@ In a production deployment, pharmacies would connect their own inventory databas
 
 ---
 
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+---
+
+### Medicine Recommendations
+![Recommendations](screenshots/recommendations.png)
+
+---
+
+### Compare Medicines
+![Compare](screenshots/compare.png)
+
+---
+
+### Pharmacy Locator
+![Pharmacy Map](screenshots/pharmacy-map.png)
+
+---
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
 # Future Improvements
 
 - Barcode Scanner
@@ -208,3 +235,6 @@ This project is licensed under the MIT License.
 Applied Electronics & Instrumentation Engineering
 
 Netaji Subhash Engineering College
+
+
+
