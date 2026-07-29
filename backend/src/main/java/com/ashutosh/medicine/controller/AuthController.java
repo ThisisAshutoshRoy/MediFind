@@ -1,0 +1,32 @@
+package com.ashutosh.medicine.controller;
+
+import com.ashutosh.medicine.dto.auth.LoginRequest;
+import com.ashutosh.medicine.dto.auth.LoginResponse;
+import com.ashutosh.medicine.service.AuthService;
+import org.springframework.web.bind.annotation.*;
+
+@RestController
+@RequestMapping("/api/auth")
+@CrossOrigin(origins = "*")
+public class AuthController {
+
+    private final AuthService authService;
+
+    public AuthController(AuthService authService) {
+
+        this.authService = authService;
+
+    }
+
+    @PostMapping("/login")
+    public LoginResponse login(
+
+            @RequestBody LoginRequest request
+
+    ) {
+
+        return authService.login(request);
+
+    }
+
+}

@@ -1,0 +1,55 @@
+.navbar{
+
+height:70px;
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:0 40px;
+
+background:#1e88e5;
+
+box-shadow:0 2px 12px rgba(0,0,0,.15);
+
+}
+
+.logo{
+
+font-size:28px;
+
+font-weight:bold;
+
+color:white;
+
+}
+
+.nav-links{
+
+display:flex;
+
+gap:30px;
+
+}
+
+.nav-links a{
+
+text-decoration:none;
+
+color:white;
+
+font-size:18px;
+
+font-weight:500;
+
+transition:.3s;
+
+}
+
+.nav-links a:hover{
+
+color:#ffe082;
+
+}

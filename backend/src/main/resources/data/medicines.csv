@@ -1,0 +1,1007 @@
+name,activeIngredient,dosage,dosageForm,manufacturer,category,description,sideEffects
+Dolo 650,Paracetamol,650 mg,Tablet,Micro Labs,Painkiller,Used to reduce fever and relieve pain,Nausea
+Crocin Advance,Paracetamol,500 mg,Tablet,GSK,Painkiller,Used for fever and body pain,Nausea
+Calpol 650,Paracetamol,650 mg,Tablet,GSK,Painkiller,Relieves fever and mild pain,Nausea
+Pacimol 650,Paracetamol,650 mg,Tablet,Ipca,Painkiller,Effective against fever and headache,Nausea
+Combiflam,Ibuprofen + Paracetamol,400 mg,Tablet,Sanofi,Painkiller,Pain and inflammation relief,Stomach irritation
+Brufen 400,Ibuprofen,400 mg,Tablet,Abbott,Painkiller,Anti-inflammatory pain reliever,Acidity
+Azithral 500,Azithromycin,500 mg,Tablet,Alembic,Antibiotic,Treats bacterial infections,Diarrhea
+Azee 500,Azithromycin,500 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Nausea
+Augmentin 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,GSK,Antibiotic,Broad-spectrum antibiotic,Diarrhea
+Amoxyclav 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Abbott,Antibiotic,Treats bacterial infections,Loose stools
+Pantocid 40,Pantoprazole,40 mg,Tablet,Sun Pharma,Gastric,Reduces stomach acid,Headache
+Pan 40,Pantoprazole,40 mg,Tablet,Alkem,Gastric,Treats acidity and GERD,Headache
+Pan D,Pantoprazole + Domperidone,40 mg,Capsule,Alkem,Gastric,Acidity with nausea,Dry mouth
+Telma 40,Telmisartan,40 mg,Tablet,Glenmark,Blood Pressure,Treats hypertension,Dizziness
+Telmikind 40,Telmisartan,40 mg,Tablet,Mankind,Blood Pressure,Lowers blood pressure,Dizziness
+Glycomet 500,Metformin,500 mg,Tablet,USV,Diabetes,Treats type 2 diabetes,Stomach upset
+Cetcip,Cetirizine,10 mg,Tablet,Cipla,Allergy,Relieves allergy symptoms,Drowsiness
+Allegra 120,Fexofenadine,120 mg,Tablet,Sanofi,Allergy,Non-drowsy allergy medicine,Headache
+Shelcal 500,Calcium + Vitamin D3,500 mg,Tablet,Torrent,Supplement,Calcium supplement,Constipation
+Neurobion Forte,Vitamin B Complex,1 Tablet,Tablet,Procter & Gamble,Vitamin,Nutritional supplement,Rare allergy
+P 650,Paracetamol,650 mg,Tablet,Apex Laboratories,Painkiller,Used to reduce fever and relieve mild to moderate pain,"Nausea, Rash"
+Paracip 500,Paracetamol,500 mg,Tablet,Cipla,Painkiller,Relieves fever and mild pain,"Nausea, Vomiting"
+Febrinil 650,Paracetamol,650 mg,Tablet,Aristo,Painkiller,Used for fever and body ache,"Nausea, Liver enzyme elevation"
+Dolokind 650,Paracetamol,650 mg,Tablet,Mankind,Painkiller,Relieves fever and headache,"Nausea, Rash"
+Pyremol 650,Paracetamol,650 mg,Tablet,Alembic,Painkiller,Effective against fever and pain,"Vomiting, Rash"
+PCM 500,Paracetamol,500 mg,Tablet,Intas,Painkiller,Reduces fever and pain,"Nausea"
+Crocin 650,Paracetamol,650 mg,Tablet,GSK,Painkiller,Fast relief from fever and body pain,"Nausea"
+Calpol 500,Paracetamol,500 mg,Tablet,GSK,Painkiller,Relieves fever in adults,"Nausea"
+Pacimol 500,Paracetamol,500 mg,Tablet,Ipca,Painkiller,Treats fever and headache,"Vomiting"
+Dolopar 650,Paracetamol,650 mg,Tablet,Torrent,Painkiller,Fever and pain relief,"Nausea"
+Ibugesic 400,Ibuprofen,400 mg,Tablet,Cipla,Painkiller,Relieves pain inflammation and fever,"Acidity, Stomach irritation"
+Ibugesic Plus,Ibuprofen + Paracetamol,400 mg,Tablet,Cipla,Painkiller,Combination pain reliever,"Acidity, Nausea"
+Flexon,Ibuprofen + Paracetamol,400 mg,Tablet,Aristo,Painkiller,Used for muscular pain and fever,"Stomach upset"
+Advil,Ibuprofen,400 mg,Tablet,Pfizer,Painkiller,NSAID pain reliever,"Acidity"
+Nurofen,Ibuprofen,400 mg,Tablet,Reckitt,Painkiller,Relieves headache and inflammation,"Heartburn"
+Ibugesic 200,Ibuprofen,200 mg,Tablet,Cipla,Painkiller,Mild pain relief,"Acidity"
+Brufen 600,Ibuprofen,600 mg,Tablet,Abbott,Painkiller,Moderate pain and inflammation,"Gastric irritation"
+Ibucal,Ibuprofen,400 mg,Tablet,Alkem,Painkiller,NSAID analgesic,"Nausea"
+Ibuclin,Ibuprofen + Paracetamol,400 mg,Tablet,Dr. Reddy's,Painkiller,Joint and muscle pain relief,"Acidity"
+Maxigesic,Ibuprofen + Paracetamol,400 mg,Tablet,Cipla,Painkiller,Fast pain relief,"Stomach discomfort"
+Voveran,Diclofenac,50 mg,Tablet,Novartis,Painkiller,Relieves pain and inflammation,"Acidity, Nausea"
+Voveran SR,Diclofenac,100 mg,Tablet,Novartis,Painkiller,Sustained release pain relief,"Heartburn"
+Dynapar,Diclofenac,50 mg,Tablet,Troikaa,Painkiller,Used for arthritis pain,"Acidity"
+Dicloran,Diclofenac,50 mg,Tablet,Sanofi,Painkiller,Pain and swelling relief,"Nausea"
+Hifenac,Aceclofenac,100 mg,Tablet,Intas,Painkiller,Treats joint pain and arthritis,"Acidity"
+Zerodol,Aceclofenac,100 mg,Tablet,Ipca,Painkiller,NSAID for pain relief,"Stomach pain"
+Aceclo,Aceclofenac,100 mg,Tablet,Aristo,Painkiller,Musculoskeletal pain relief,"Nausea"
+Movexx,Aceclofenac,100 mg,Tablet,Mankind,Painkiller,Used in arthritis,"Acidity"
+Dolonex,Piroxicam,20 mg,Tablet,Pfizer,Painkiller,Relieves severe joint pain,"Gastric irritation"
+Naprosyn,Naproxen,500 mg,Tablet,RPG,Painkiller,Pain and inflammation relief,"Heartburn"
+Azee 250,Azithromycin,250 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,"Diarrhea, Nausea"
+Azithral 250,Azithromycin,250 mg,Tablet,Alembic,Antibiotic,Respiratory infection treatment,"Loose stools"
+Azibact 500,Azithromycin,500 mg,Tablet,Ipca,Antibiotic,Broad spectrum antibiotic,"Nausea"
+Azax 500,Azithromycin,500 mg,Tablet,Ranbaxy,Antibiotic,Treats ENT infections,"Diarrhea"
+Zithrox 500,Azithromycin,500 mg,Tablet,Mankind,Antibiotic,Treats chest infections,"Abdominal pain"
+Azifast 500,Azithromycin,500 mg,Tablet,Micro Labs,Antibiotic,Treats bacterial infections,"Loose stools"
+Azilide 500,Azithromycin,500 mg,Tablet,Sun Pharma,Antibiotic,Used for respiratory infections,"Nausea"
+Azicip 500,Azithromycin,500 mg,Tablet,Cipla,Antibiotic,Effective against bacterial infections,"Diarrhea"
+Azikem 500,Azithromycin,500 mg,Tablet,Alkem,Antibiotic,Treats bacterial diseases,"Vomiting"
+Azisafe 500,Azithromycin,500 mg,Tablet,Abbott,Antibiotic,Common antibiotic,"Loose stools"
+Mox 500,Amoxicillin,500 mg,Capsule,Sun Pharma,Antibiotic,Treats bacterial infections,"Diarrhea"
+Amox 500,Amoxicillin,500 mg,Capsule,Cipla,Antibiotic,Penicillin antibiotic,"Rash"
+Novamox 500,Amoxicillin,500 mg,Capsule,Cipla,Antibiotic,Treats respiratory infections,"Loose stools"
+Moxikind CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Mankind,Antibiotic,Broad spectrum antibiotic,"Diarrhea"
+Clavam 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Alkem,Antibiotic,Treats bacterial infections,"Nausea"
+Clamp 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Abbott,Antibiotic,Respiratory infections,"Loose stools"
+Augpen 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Sun Pharma,Antibiotic,ENT infection treatment,"Diarrhea"
+Megamox CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Intas,Antibiotic,Bacterial infection treatment,"Vomiting"
+Amoxyclav DS,Amoxicillin + Clavulanic Acid,457 mg,Syrup,Abbott,Antibiotic,Pediatric antibiotic,"Diarrhea"
+Novamox CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Cipla,Antibiotic,Used for bacterial infections,"Loose stools"
+Pantop 40,Pantoprazole,40 mg,Tablet,Aristo,Gastric,Used to treat acidity GERD and stomach ulcers,"Headache, Diarrhea"
+Pantosec 40,Pantoprazole,40 mg,Tablet,Cipla,Gastric,Reduces excess stomach acid production,"Headache, Nausea"
+Pantakind 40,Pantoprazole,40 mg,Tablet,Mankind,Gastric,Treats acid reflux and gastric ulcers,"Headache, Flatulence"
+Pantacid 40,Pantoprazole,40 mg,Tablet,Sun Pharma,Gastric,Proton pump inhibitor for acidity,"Diarrhea, Dizziness"
+Pantodac 40,Pantoprazole,40 mg,Tablet,Zydus,Gastric,Relieves acidity and GERD symptoms,"Headache"
+Pantocid DSR,Pantoprazole + Domperidone,40 mg,Capsule,Sun Pharma,Gastric,Used for acidity with nausea,"Dry Mouth, Headache"
+Pantop D,Pantoprazole + Domperidone,40 mg,Capsule,Aristo,Gastric,Controls acid reflux and vomiting,"Dry Mouth"
+Pansec D,Pantoprazole + Domperidone,40 mg,Capsule,Cipla,Gastric,Treats GERD with nausea,"Headache"
+Pan L,Pantoprazole + Levosulpiride,40 mg,Capsule,Alkem,Gastric,Acidity with bloating,"Constipation"
+Pantopraz D,Pantoprazole + Domperidone,40 mg,Capsule,Intas,Gastric,Acid reflux treatment,"Dry Mouth"
+Razo 20,Rabeprazole,20 mg,Tablet,Dr. Reddy's,Gastric,Treats gastric ulcers and GERD,"Headache"
+Rabicip 20,Rabeprazole,20 mg,Tablet,Cipla,Gastric,Reduces stomach acid production,"Diarrhea"
+Rablet 20,Rabeprazole,20 mg,Tablet,Lupin,Gastric,Used for acidity and ulcers,"Nausea"
+Rabez 20,Rabeprazole,20 mg,Tablet,Sun Pharma,Gastric,Proton pump inhibitor,"Headache"
+Rabekind 20,Rabeprazole,20 mg,Tablet,Mankind,Gastric,Relieves acid reflux symptoms,"Constipation"
+Rabonik 20,Rabeprazole,20 mg,Tablet,Aristo,Gastric,Treats GERD and ulcers,"Headache"
+Rabium 20,Rabeprazole,20 mg,Tablet,Zydus,Gastric,Controls stomach acid,"Nausea"
+Rabesec 20,Rabeprazole,20 mg,Tablet,Alkem,Gastric,Treats gastric irritation,"Headache"
+Rabicip D,Rabeprazole + Domperidone,20 mg,Capsule,Cipla,Gastric,GERD with nausea,"Dry Mouth"
+Razo D,Rabeprazole + Domperidone,20 mg,Capsule,Dr. Reddy's,Gastric,Treats severe acidity,"Dry Mouth"
+Omez 20,Omeprazole,20 mg,Capsule,Dr. Reddy's,Gastric,Treats acidity and peptic ulcers,"Headache"
+Ocid 20,Omeprazole,20 mg,Capsule,Zydus,Gastric,Controls stomach acid,"Nausea"
+Omee 20,Omeprazole,20 mg,Capsule,Alkem,Gastric,GERD treatment,"Headache"
+Omecip 20,Omeprazole,20 mg,Capsule,Cipla,Gastric,Used for acid reflux,"Diarrhea"
+Omipra 20,Omeprazole,20 mg,Capsule,Intas,Gastric,Reduces stomach acid,"Headache"
+Cetzine,Cetirizine,10 mg,Tablet,Dr. Reddy's,Allergy,Relieves sneezing and allergic rhinitis,"Drowsiness, Dry Mouth"
+Alerid,Cetirizine,10 mg,Tablet,Cipla,Allergy,Treats allergy symptoms,"Drowsiness"
+Okacet,Cetirizine,10 mg,Tablet,Cipla,Allergy,Used for seasonal allergies,"Sleepiness"
+Cetzine-M,Cetirizine + Montelukast,10 mg,Tablet,Dr. Reddy's,Allergy,Allergy with asthma symptoms,"Drowsiness"
+Montek LC,Levocetirizine + Montelukast,5 mg,Tablet,Sun Pharma,Allergy,Allergic rhinitis treatment,"Sleepiness"
+LCZ,Levocetirizine,5 mg,Tablet,Cipla,Allergy,Non-sedating antihistamine,"Headache"
+Levocet,Levocetirizine,5 mg,Tablet,Intas,Allergy,Treats allergic rhinitis,"Drowsiness"
+Levocet-M,Levocetirizine + Montelukast,5 mg,Tablet,Mankind,Allergy,Controls allergy symptoms,"Headache"
+Histafree,Fexofenadine,120 mg,Tablet,Mankind,Allergy,Relieves allergy symptoms,"Headache"
+Fexy,Fexofenadine,180 mg,Tablet,Cipla,Allergy,Treats chronic urticaria,"Nausea"
+Montair 10,Montelukast,10 mg,Tablet,Cipla,Allergy,Prevents allergic rhinitis and asthma,"Headache"
+Montek 10,Montelukast,10 mg,Tablet,Sun Pharma,Allergy,Treats seasonal allergies,"Abdominal Pain"
+Montina L,Montelukast + Levocetirizine,10 mg,Tablet,Intas,Allergy,Allergy management,"Drowsiness"
+Telekast L,Montelukast + Levocetirizine,10 mg,Tablet,Lupin,Allergy,Allergy with nasal congestion,"Sleepiness"
+Montecip LC,Montelukast + Levocetirizine,10 mg,Tablet,Cipla,Allergy,Long-term allergy control,"Headache"
+Gelusil,Magnesium Hydroxide + Aluminium Hydroxide,10 ml,Suspension,Pfizer,Antacid,Quick relief from acidity,"Constipation"
+Digene,Magaldrate + Simethicone,10 ml,Suspension,Abbott,Antacid,Relieves acidity and gas,"Diarrhea"
+ENO,Fruit Salt,5 g,Powder,GSK,Antacid,Instant acidity relief,"Burping"
+Gaviscon,Sodium Alginate + Sodium Bicarbonate,10 ml,Suspension,Reckitt,Antacid,Treats acid reflux,"Nausea"
+Mucaine Gel,Oxetacaine + Aluminium Hydroxide,200 ml,Suspension,Pfizer,Antacid,Acidity with stomach pain,"Constipation"
+Glycomet 850,Metformin,850 mg,Tablet,USV,Diabetes,Improves blood sugar control in type 2 diabetes,"Nausea, Diarrhea"
+Glycomet GP1,Metformin + Glimepiride,1 mg,Tablet,USV,Diabetes,Controls blood sugar in type 2 diabetes,"Hypoglycemia, Nausea"
+Glycomet GP2,Metformin + Glimepiride,2 mg,Tablet,USV,Diabetes,Improves glycemic control,"Hypoglycemia"
+Glycomet Trio,Metformin + Glimepiride + Voglibose,Tablet,USV,Diabetes,Triple therapy for diabetes,"Flatulence"
+Gluconorm G1,Metformin + Glimepiride,1 mg,Tablet,Lupin,Diabetes,Type 2 diabetes treatment,"Hypoglycemia"
+Gluconorm G2,Metformin + Glimepiride,2 mg,Tablet,Lupin,Diabetes,Controls blood sugar,"Dizziness"
+Istamet,Metformin + Sitagliptin,50/500 mg,Tablet,Sun Pharma,Diabetes,Combination diabetes therapy,"Diarrhea"
+Janumet,Metformin + Sitagliptin,50/500 mg,Tablet,MSD,Diabetes,Improves blood glucose control,"Nausea"
+Galvus Met,Metformin + Vildagliptin,50/500 mg,Tablet,Novartis,Diabetes,Treats type 2 diabetes,"Headache"
+Zita Met,Metformin + Sitagliptin,50/500 mg,Tablet,Glenmark,Diabetes,Diabetes management,"Diarrhea"
+Amaryl 1,Glimepiride,1 mg,Tablet,Sanofi,Diabetes,Controls blood sugar,"Hypoglycemia"
+Amaryl 2,Glimepiride,2 mg,Tablet,Sanofi,Diabetes,Type 2 diabetes medicine,"Low Blood Sugar"
+Glimy 1,Glimepiride,1 mg,Tablet,Dr. Reddy's,Diabetes,Stimulates insulin release,"Dizziness"
+Glimy M1,Glimepiride + Metformin,1 mg,Tablet,Dr. Reddy's,Diabetes,Combination diabetes medicine,"Hypoglycemia"
+Gemer 1,Glimepiride,1 mg,Tablet,Sun Pharma,Diabetes,Improves glucose control,"Headache"
+Gemer Forte,Glimepiride + Metformin,2 mg,Tablet,Sun Pharma,Diabetes,Combination therapy,"Hypoglycemia"
+Voglib 0.2,Voglibose,0.2 mg,Tablet,Sun Pharma,Diabetes,Reduces post-meal sugar,"Flatulence"
+Volix 0.2,Voglibose,0.2 mg,Tablet,Ranbaxy,Diabetes,Controls postprandial glucose,"Gas"
+Jardiance 10,Empagliflozin,10 mg,Tablet,Boehringer Ingelheim,Diabetes,Improves glucose excretion,"Frequent urination"
+Forxiga 10,Dapagliflozin,10 mg,Tablet,AstraZeneca,Diabetes,Lowers blood sugar,"Urinary infection"
+Telma 20,Telmisartan,20 mg,Tablet,Glenmark,Blood Pressure,Treats hypertension,"Dizziness"
+Telma 80,Telmisartan,80 mg,Tablet,Glenmark,Blood Pressure,Controls high blood pressure,"Headache"
+Telsar 40,Telmisartan,40 mg,Tablet,Torrent,Blood Pressure,Reduces hypertension,"Dizziness"
+Tazloc 40,Telmisartan,40 mg,Tablet,USV,Blood Pressure,Treats high blood pressure,"Fatigue"
+Telvas 40,Telmisartan,40 mg,Tablet,Aristo,Blood Pressure,Lowers blood pressure,"Dizziness"
+Cresar 40,Telmisartan,40 mg,Tablet,Cipla,Blood Pressure,Hypertension management,"Headache"
+Macsart 40,Telmisartan,40 mg,Tablet,Macleods,Blood Pressure,Treats hypertension,"Dizziness"
+Telmiget 40,Telmisartan,40 mg,Tablet,Intas,Blood Pressure,Controls hypertension,"Weakness"
+Tellzy 40,Telmisartan,40 mg,Tablet,Alembic,Blood Pressure,Hypertension treatment,"Dizziness"
+Telmikind AM,Telmisartan + Amlodipine,40 mg,Tablet,Mankind,Blood Pressure,Controls blood pressure,"Ankle swelling"
+Amlong 5,Amlodipine,5 mg,Tablet,Micro Labs,Blood Pressure,Calcium channel blocker,"Swelling of feet"
+Amlovas 5,Amlodipine,5 mg,Tablet,MacLeods,Blood Pressure,Treats hypertension,"Headache"
+Amcard 5,Amlodipine,5 mg,Tablet,Torrent,Blood Pressure,Controls blood pressure,"Dizziness"
+Stamlo 5,Amlodipine,5 mg,Tablet,Dr. Reddy's,Blood Pressure,Hypertension medicine,"Edema"
+Amlokind 5,Amlodipine,5 mg,Tablet,Mankind,Blood Pressure,Lowers blood pressure,"Swollen ankles"
+Ecosprin 75,Aspirin,75 mg,Tablet,USV,Cardiac,Prevents blood clot formation,"Bleeding"
+Ecosprin AV,Aspirin + Atorvastatin,75 mg,Capsule,USV,Cardiac,Heart attack prevention,"Bleeding"
+Clopitab 75,Clopidogrel,75 mg,Tablet,Lupin,Cardiac,Prevents stroke and heart attack,"Bleeding"
+Deplatt 75,Clopidogrel,75 mg,Tablet,Torrent,Cardiac,Antiplatelet medicine,"Bruising"
+Atorlip 10,Atorvastatin,10 mg,Tablet,Cipla,Cardiac,Lowers cholesterol,"Muscle pain"
+Storvas 10,Atorvastatin,10 mg,Tablet,Sun Pharma,Cardiac,Controls cholesterol,"Muscle weakness"
+Tonact 10,Atorvastatin,10 mg,Tablet,Lupin,Cardiac,Reduces LDL cholesterol,"Joint pain"
+Rosuvas 10,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cardiac,Cholesterol lowering medicine,"Muscle pain"
+Rozavel 10,Rosuvastatin,10 mg,Tablet,Dr. Reddy's,Cardiac,Statin medicine,"Headache"
+Crestor 10,Rosuvastatin,10 mg,Tablet,AstraZeneca,Cardiac,Controls cholesterol,"Muscle pain"
+Thyronorm 25,Levothyroxine,25 mcg,Tablet,Abbott,Thyroid,Treats hypothyroidism,"Palpitations"
+Thyronorm 50,Levothyroxine,50 mcg,Tablet,Abbott,Thyroid,Replaces thyroid hormone,"Insomnia"
+Thyronorm 75,Levothyroxine,75 mcg,Tablet,Abbott,Thyroid,Hypothyroidism treatment,"Palpitations"
+Thyronorm 100,Levothyroxine,100 mcg,Tablet,Abbott,Thyroid,Thyroid hormone replacement,"Weight loss"
+Eltroxin 50,Levothyroxine,50 mcg,Tablet,GSK,Thyroid,Used for hypothyroidism,"Rapid heartbeat"
+Becosules,Vitamin B Complex,1 Capsule,Capsule,Pfizer,Vitamin,Nutritional supplement,"Rare allergy"
+Supradyn Daily,Multivitamin,1 Tablet,Tablet,Bayer,Vitamin,Daily vitamin supplement,"Nausea"
+Revital H,Multivitamin + Ginseng,1 Capsule,Capsule,Ranbaxy,Vitamin,Improves energy levels,"Stomach upset"
+Zincovit,Multivitamin + Zinc,1 Tablet,Tablet,Apex,Vitamin,Boosts immunity,"Nausea"
+Limcee 500,Vitamin C,500 mg,Tablet,Abbott,Vitamin,Vitamin C supplement,"Acidity"
+Razo 20,Rabeprazole,20 mg,Tablet,Dr. Reddy's,Gastric,Treats acidity and GERD,Headache
+Rabonik 20,Rabeprazole,20 mg,Tablet,Cipla,Gastric,Reduces stomach acid,Nausea
+Omez 20,Omeprazole,20 mg,Capsule,Dr. Reddy's,Gastric,Treats gastric ulcers,Headache
+Ocid 20,Omeprazole,20 mg,Capsule,Zydus,Gastric,Acidity and ulcer treatment,Nausea
+Esomac 40,Esomeprazole,40 mg,Tablet,Cipla,Gastric,Controls acid reflux,Constipation
+Nexpro 40,Esomeprazole,40 mg,Tablet,Torrent,Gastric,Treats GERD,Headache
+Levosiz M,Levocetirizine + Montelukast,5 mg,Tablet,Glenmark,Allergy,Allergy with asthma,Drowsiness
+Montek LC,Levocetirizine + Montelukast,5 mg,Tablet,Sun Pharma,Allergy,Seasonal allergy relief,Drowsiness
+Montair LC,Levocetirizine + Montelukast,5 mg,Tablet,Cipla,Allergy,Treats allergic rhinitis,Dry mouth
+Sinarest New,Paracetamol + Phenylephrine + Chlorpheniramine,Tablet,Tablet,Centaur,Cold & Flu,Relieves cold symptoms,Drowsiness
+Wikoryl,Paracetamol + Phenylephrine + Chlorpheniramine,Tablet,Tablet,Alembic,Cold & Flu,Cold and nasal congestion,Drowsiness
+Alex Syrup,Dextromethorphan + Chlorpheniramine,100 ml,Syrup,Glenmark,Cough,Dry cough suppressant,Drowsiness
+Benadryl Cough,Diphenhydramine,100 ml,Syrup,Johnson & Johnson,Cough,Relieves cough,Drowsiness
+Ascoril LS,Levosalbutamol + Ambroxol + Guaifenesin,100 ml,Syrup,Glenmark,Cough,Productive cough relief,Nausea
+TusQ X,Dextromethorphan + Phenylephrine + CPM,100 ml,Syrup,Zuventus,Cough,Dry cough and cold,Drowsiness
+Deriphyllin,Etophylline + Theophylline,150 mg,Tablet,Zydus,Respiratory,Bronchodilator for asthma,Nausea
+Budecort Respules,Budesonide,0.5 mg,Respule,Cipla,Respiratory,Asthma maintenance,Hoarseness
+Foracort Inhaler,Budesonide + Formoterol,200 mcg,Inhaler,Cipla,Respiratory,Asthma and COPD,Tremor
+Duolin Respules,Ipratropium + Levosalbutamol,2.5 ml,Respule,Cipla,Respiratory,Bronchodilator,Dry mouth
+Duolin Inhaler,Ipratropium + Levosalbutamol,50 mcg,Inhaler,Cipla,Respiratory,Relieves bronchospasm,Tremor
+Seroflo 250,Fluticasone + Salmeterol,250 mcg,Inhaler,Cipla,Respiratory,Asthma controller,Hoarseness
+Rotahaler Device,None,Standard,Device,Cipla,Respiratory,Dry powder inhaler device,None
+Budamate 200,Budesonide + Formoterol,200 mcg,Inhaler,Lupin,Respiratory,Asthma maintenance,Tremor
+Levolin Inhaler,Levosalbutamol,100 mcg,Inhaler,Cipla,Respiratory,Quick asthma relief,Tremor
+Aerocort Inhaler,Beclomethasone + Levosalbutamol,100 mcg,Inhaler,Cipla,Respiratory,Asthma treatment,Hoarseness
+Levoflox 500,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats respiratory and urinary infections,Dizziness
+Levoday 500,Levofloxacin,500 mg,Tablet,Alkem,Antibiotic,Broad-spectrum antibiotic,Nausea
+Levomac 500,Levofloxacin,500 mg,Tablet,Macleods,Antibiotic,Treats bacterial infections,Diarrhea
+Monocef O 200,Cefixime,200 mg,Tablet,Aristo,Antibiotic,Treats bacterial infections,Loose stools
+Taxim O 200,Cefixime,200 mg,Tablet,Alkem,Antibiotic,Cephalosporin antibiotic,Nausea
+Cefolac 200,Cefixime,200 mg,Tablet,Cipla,Antibiotic,Treats respiratory infections,Diarrhea
+Cefspan 200,Cefixime,200 mg,Tablet,GSK,Antibiotic,Bacterial infection treatment,Headache
+Cepodem 200,Cefpodoxime,200 mg,Tablet,Sun Pharma,Antibiotic,Treats bacterial infections,Nausea
+Mahacef 200,Cefpodoxime,200 mg,Tablet,Mankind,Antibiotic,Respiratory infection treatment,Diarrhea
+Cefakind 200,Cefpodoxime,200 mg,Tablet,Mankind,Antibiotic,Cephalosporin antibiotic,Loose stools
+Zifi AZ,Azithromycin + Cefixime,1 Tablet,Tablet,FDC,Antibiotic,Combination antibiotic,Nausea
+Mox 500,Amoxicillin,500 mg,Capsule,Sun Pharma,Antibiotic,Treats bacterial infections,Rash
+Moxikind CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Mankind,Antibiotic,Broad-spectrum antibiotic,Diarrhea
+Clavam 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Alkem,Antibiotic,Treats infections,Loose stools
+Augpen 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Cipla,Antibiotic,Respiratory infections,Nausea
+Oflomac OZ,Ofloxacin + Ornidazole,1 Tablet,Tablet,Macleods,Antibiotic,Treats gastrointestinal infections,Dizziness
+O2 Tablet,Ofloxacin + Ornidazole,1 Tablet,Tablet,Ranbaxy,Antibiotic,Diarrheal infections,Nausea
+Zenflox OZ,Ofloxacin + Ornidazole,1 Tablet,Tablet,Mankind,Antibiotic,Treats mixed infections,Headache
+Lariago,Chloroquine,250 mg,Tablet,Ipca,Antimalarial,Treats malaria,Blurred vision
+HCQS 200,Hydroxychloroquine,200 mg,Tablet,Ipca,Immunology,Autoimmune disease treatment,Nausea
+Plaquenil 200,Hydroxychloroquine,200 mg,Tablet,Sanofi,Immunology,Treats rheumatoid arthritis,Headache
+Meftal Forte,Mefenamic Acid,500 mg,Tablet,Blue Cross,Painkiller,Relieves pain and inflammation,Acidity
+Meftal Spas,Mefenamic Acid + Dicyclomine,1 Tablet,Tablet,Blue Cross,Painkiller,Abdominal cramps,Dry mouth
+Drotin,Drotaverine,40 mg,Tablet,Walter Bushnell,Antispasmodic,Relieves muscle spasms,Dizziness
+Drotin DS,Drotaverine,80 mg,Tablet,Walter Bushnell,Antispasmodic,Treats abdominal pain,Nausea
+Cyclopam,Dicyclomine + Paracetamol,1 Tablet,Tablet,Indoco,Antispasmodic,Relieves stomach cramps,Dry mouth
+Sporlac,Saccharomyces boulardii,250 mg,Capsule,Sanzyme,Probiotic,Restores gut flora,Bloating
+Vizylac,Lactic Acid Bacillus,1 Capsule,Capsule,Torrent,Probiotic,Treats diarrhea,Gas
+Econorm,Saccharomyces boulardii,250 mg,Capsule,Dr Reddy's,Probiotic,Improves digestion,Bloating
+Bifilac,Probiotic Blend,1 Capsule,Capsule,Tablets India,Probiotic,Maintains gut health,Gas
+Montek LC,Montelukast + Levocetirizine,1 Tablet,Tablet,Sun Pharma,Allergy,Treats allergic rhinitis,Drowsiness
+Montair LC,Montelukast + Levocetirizine,1 Tablet,Tablet,Cipla,Allergy,Controls allergies,Headache
+Montina L,Montelukast + Levocetirizine,1 Tablet,Tablet,Mankind,Allergy,Seasonal allergy treatment,Drowsiness
+Okacet,Cetirizine,10 mg,Tablet,Cipla,Allergy,Relieves allergy symptoms,Drowsiness
+Zyncet,Cetirizine,10 mg,Tablet,Mankind,Allergy,Treats allergic rhinitis,Sleepiness
+Levocet,Levocetirizine,5 mg,Tablet,Cipla,Allergy,Non-sedating antihistamine,Drowsiness
+Xyzal,Levocetirizine,5 mg,Tablet,UCB,Allergy,Relieves allergies,Headache
+Alerid,Cetirizine,10 mg,Tablet,Cipla,Allergy,Controls allergic reactions,Drowsiness
+Sinarest,Paracetamol + Phenylephrine + Chlorpheniramine,1 Tablet,Tablet,Centaur,Cold & Flu,Cold symptom relief,Drowsiness
+Wikoryl,Paracetamol + Chlorpheniramine + Phenylephrine,1 Tablet,Tablet,Alembic,Cold & Flu,Treats common cold,Drowsiness
+Nasoclear,Sodium Chloride,0.65%,Nasal Spray,Cipla,Nasal Care,Relieves nasal congestion,None
+Otrivin,Xylometazoline,0.1%,Nasal Spray,GSK,Nasal Care,Nasal decongestant,Nasal irritation
+Xylorin,Xylometazoline,0.1%,Nasal Drops,Dr Reddy's,Nasal Care,Relieves blocked nose,Burning sensation
+Becosules,Vitamin B Complex,1 Capsule,Capsule,Pfizer,Vitamin,Nutritional supplement,Rare allergy
+Supradyn Daily,Multivitamin,1 Tablet,Tablet,Bayer,Vitamin,Daily multivitamin,Nausea
+Revital H,Multivitamin + Ginseng,1 Capsule,Capsule,Ranbaxy,Vitamin,Energy supplement,Insomnia
+A to Z NS,Multivitamin,1 Tablet,Tablet,Alkem,Vitamin,Nutritional support,Nausea
+Limcee 500,Vitamin C,500 mg,Tablet,Abbott,Vitamin,Boosts immunity,Acidity
+Celin 500,Vitamin C,500 mg,Tablet,GSK,Vitamin,Vitamin C supplement,Heartburn
+Shelcal HD,Calcium + Vitamin D3,1 Tablet,Tablet,Torrent,Supplement,Calcium supplement,Constipation
+Calcimax 500,Calcium + Vitamin D3,500 mg,Tablet,Meyer,Supplement,Bone health support,Constipation
+Osteocalcium,Calcium Carbonate,500 mg,Tablet,Cipla,Supplement,Calcium deficiency,Gas
+Feronia XT,Iron + Folic Acid,1 Tablet,Tablet,Emcure,Supplement,Treats anemia,Constipation
+Livogen XT,Iron + Folic Acid,1 Tablet,Tablet,Abbott,Supplement,Iron deficiency,Nausea
+Autrin,Iron + Folic Acid,1 Tablet,Capsule,Pfizer,Supplement,Treats anemia,Dark stools
+Dexorange,Iron + Vitamin B12,10 ml,Syrup,Franco Indian,Supplement,Iron tonic,Constipation
+Met XL 25,Metoprolol Succinate,25 mg,Tablet,Cipla,Blood Pressure,Treats hypertension and heart conditions,Dizziness
+Met XL 50,Metoprolol Succinate,50 mg,Tablet,Cipla,Blood Pressure,Controls high blood pressure,Fatigue
+Prolomet XL 25,Metoprolol Succinate,25 mg,Tablet,Sun Pharma,Blood Pressure,Reduces heart workload,Dizziness
+Prolomet XL 50,Metoprolol Succinate,50 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Fatigue
+Amlokind 5,Amlodipine,5 mg,Tablet,Mankind,Blood Pressure,Calcium channel blocker,Swelling
+Amlokind AT,Amlodipine + Atenolol,5/50 mg,Tablet,Mankind,Blood Pressure,Controls hypertension,Dizziness
+Amlopres 5,Amlodipine,5 mg,Tablet,Cipla,Blood Pressure,Treats hypertension,Ankle swelling
+Amlovas 5,Amlodipine,5 mg,Tablet,Macleods,Blood Pressure,Controls blood pressure,Headache
+Amlovas AT,Amlodipine + Atenolol,5/50 mg,Tablet,Macleods,Blood Pressure,Hypertension treatment,Dizziness
+Olmezest 20,Olmesartan,20 mg,Tablet,Sun Pharma,Blood Pressure,ARB for hypertension,Dizziness
+Olmezest 40,Olmesartan,40 mg,Tablet,Sun Pharma,Blood Pressure,Lowers blood pressure,Fatigue
+Olmesar 20,Olmesartan,20 mg,Tablet,Macleods,Blood Pressure,Treats hypertension,Dizziness
+Olmesar AM,Olmesartan + Amlodipine,20/5 mg,Tablet,Macleods,Blood Pressure,Combination BP medicine,Swelling
+Losar 25,Losartan,25 mg,Tablet,Unichem,Blood Pressure,Hypertension medicine,Dizziness
+Losar 50,Losartan,50 mg,Tablet,Unichem,Blood Pressure,Controls high BP,Fatigue
+Repace 25,Losartan,25 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Dizziness
+Repace H,Losartan + Hydrochlorothiazide,50/12.5 mg,Tablet,Sun Pharma,Blood Pressure,BP with diuretic,Frequent urination
+Cardace 2.5,Ramipril,2.5 mg,Tablet,Sanofi,Blood Pressure,ACE inhibitor,Dry cough
+Cardace 5,Ramipril,5 mg,Tablet,Sanofi,Blood Pressure,Lowers blood pressure,Dry cough
+Ramistar 5,Ramipril,5 mg,Tablet,Lupin,Blood Pressure,Hypertension medicine,Dizziness
+Nebicard 5,Nebivolol,5 mg,Tablet,Torrent,Blood Pressure,Beta blocker,Fatigue
+Nebistar 5,Nebivolol,5 mg,Tablet,Lupin,Blood Pressure,Controls BP,Dizziness
+Cresar 10,Rosuvastatin,10 mg,Tablet,Cipla,Cholesterol,Lowers cholesterol,Muscle pain
+Rosuvas 10,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Treats high cholesterol,Headache
+Rosuvas 20,Rosuvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Reduces LDL,Muscle pain
+Storvas 10,Atorvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Statin medicine,Muscle pain
+Storvas 20,Atorvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Controls cholesterol,Liver enzyme increase
+Atorlip 10,Atorvastatin,10 mg,Tablet,Cipla,Cholesterol,Reduces cholesterol,Muscle weakness
+Atorlip 20,Atorvastatin,20 mg,Tablet,Cipla,Cholesterol,Heart protection,Muscle pain
+Tonact 10,Atorvastatin,10 mg,Tablet,Lupin,Cholesterol,Statin medicine,Headache
+Tonact 20,Atorvastatin,20 mg,Tablet,Lupin,Cholesterol,Lowers cholesterol,Muscle pain
+Ecosprin 75,Aspirin,75 mg,Tablet,USV,Heart Care,Blood thinner,Bleeding risk
+Ecosprin AV,Aspirin + Atorvastatin,75/10 mg,Capsule,USV,Heart Care,Heart protection,Stomach irritation
+Clopitab 75,Clopidogrel,75 mg,Tablet,Lupin,Heart Care,Prevents blood clots,Bleeding
+Clopilet 75,Clopidogrel,75 mg,Tablet,Sun Pharma,Heart Care,Anti-platelet medicine,Bruising
+Deplatt 75,Clopidogrel,75 mg,Tablet,Torrent,Heart Care,Stroke prevention,Bleeding
+Deplatt CV,Clopidogrel + Atorvastatin,75/10 mg,Capsule,Torrent,Heart Care,Heart protection,Muscle pain
+Monotrate 20,Isosorbide Mononitrate,20 mg,Tablet,Sun Pharma,Heart Care,Prevents angina,Headache
+Sorbitrate 5,Nitroglycerin,5 mg,Tablet,RPG Life Sciences,Heart Care,Relieves chest pain,Headache
+Lasix 40,Furosemide,40 mg,Tablet,Sanofi,Diuretic,Removes excess fluid,Frequent urination
+Fruselac,Furosemide + Spironolactone,40/50 mg,Capsule,Sun Pharma,Diuretic,Treats edema,Dizziness
+Aldactone 25,Spironolactone,25 mg,Tablet,RPG Life Sciences,Diuretic,Potassium-sparing diuretic,Breast tenderness
+Aldactone 50,Spironolactone,50 mg,Tablet,RPG Life Sciences,Diuretic,Treats fluid retention,Dizziness
+Torsemide 10,Torsemide,10 mg,Tablet,Cipla,Diuretic,Loop diuretic,Frequent urination
+Dytor 10,Torsemide,10 mg,Tablet,Cipla,Diuretic,Reduces edema,Dizziness
+Dytor Plus,Torsemide + Spironolactone,10/50 mg,Tablet,Cipla,Diuretic,Treats swelling,Dizziness
+Ivabrad 5,Ivabradine,5 mg,Tablet,Lupin,Heart Care,Reduces heart rate,Visual disturbances
+Ivabrad 7.5,Ivabradine,7.5 mg,Tablet,Lupin,Heart Care,Heart failure treatment,Dizziness
+Coralan 5,Ivabradine,5 mg,Tablet,Servier,Heart Care,Treats chronic heart failure,Blurred vision
+Coralan 7.5,Ivabradine,7.5 mg,Tablet,Servier,Heart Care,Heart rate control,Headache
+Taxim-O 200,Cefixime,200 mg,Tablet,Alkem,Antibiotic,Treats bacterial infections,Diarrhea
+Cefolac 200,Cefixime,200 mg,Tablet,Cipla,Antibiotic,Used for respiratory infections,Nausea
+Monocef-O 200,Cefixime,200 mg,Tablet,Aristo,Antibiotic,Broad spectrum antibiotic,Loose stools
+Cefspan 200,Cefixime,200 mg,Tablet,GSK,Antibiotic,Treats urinary tract infections,Headache
+Mox 500,Amoxicillin,500 mg,Capsule,Ranbaxy,Antibiotic,Treats bacterial infections,Rash
+Novamox 500,Amoxicillin,500 mg,Capsule,Cipla,Antibiotic,Penicillin antibiotic,Diarrhea
+Amox 250,Amoxicillin,250 mg,Capsule,Sun Pharma,Antibiotic,Treats throat infection,Nausea
+Cifran 500,Ciprofloxacin,500 mg,Tablet,Sun Pharma,Antibiotic,Treats bacterial infections,Dizziness
+Ciplox 500,Ciprofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats urinary infections,Nausea
+Levoflox 500,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats lung infections,Dizziness
+Levoday 500,Levofloxacin,500 mg,Tablet,Lupin,Antibiotic,Treats bacterial infections,Headache
+Oflox 200,Ofloxacin,200 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Nausea
+Oflomac 200,Ofloxacin,200 mg,Tablet,Macleods,Antibiotic,Treats diarrhea and infections,Dizziness
+Zifi 200,Cefixime,200 mg,Tablet,FDC,Antibiotic,Treats bacterial infections,Loose stools
+Mahacef 200,Cefixime,200 mg,Tablet,Mankind,Antibiotic,Effective against bacterial infection,Diarrhea
+Rablet 20,Rabeprazole,20 mg,Tablet,Lupin,Gastric,Acidity and GERD,Headache
+Rabonik 20,Rabeprazole,20 mg,Tablet,Mankind,Gastric,Reduces acid secretion,Dizziness
+Pantakind 40,Pantoprazole,40 mg,Tablet,Mankind,Gastric,Treats acidity,Nausea
+Esomac 40,Esomeprazole,40 mg,Capsule,Cipla,Gastric,GERD treatment,Constipation
+Neksium 40,Esomeprazole,40 mg,Tablet,Sun Pharma,Gastric,Acid reflux treatment,Headache
+Razo 20,Rabeprazole,20 mg,Tablet,Dr Reddy's,Gastric,Treats acidity and GERD,Headache
+Razo D,Rabeprazole + Domperidone,20 mg,Capsule,Dr Reddy's,Gastric,Acidity with nausea,Dry mouth
+Omez 20,Omeprazole,20 mg,Capsule,Dr Reddy's,Gastric,Reduces stomach acid,Nausea
+Ocid 20,Omeprazole,20 mg,Capsule,Zydus,Gastric,Treats gastric ulcers,Headache
+Lomac 20,Omeprazole,20 mg,Capsule,Cipla,Gastric,Relieves acid reflux,Dizziness
+Digene Gel,Magaldrate + Simethicone,10 ml,Suspension,Abbott,Antacid,Quick relief from acidity,Constipation
+Gelusil,Magaldrate + Simethicone,10 ml,Suspension,Pfizer,Antacid,Neutralizes stomach acid,Diarrhea
+ENO Fruit Salt,Sodium Bicarbonate,5 g,Powder,GSK,Antacid,Instant acidity relief,Bloating
+Sucrafil,Sucralfate,1 g,Suspension,Cipla,Gastric,Heals stomach ulcers,Constipation
+Sucramal,Sucralfate,1 g,Suspension,Sun Pharma,Gastric,Treats gastric ulcers,Dry mouth
+Montair 10,Montelukast,10 mg,Tablet,Cipla,Allergy,Prevents allergic rhinitis,Headache
+Montemac 10,Montelukast,10 mg,Tablet,Macleods,Allergy,Allergy prevention,Dizziness
+Montina L,Montelukast + Levocetirizine,10 mg,Tablet,Intas,Allergy,Allergic rhinitis,Drowsiness
+Montek LC,Montelukast + Levocetirizine,10 mg,Tablet,Sun Pharma,Allergy,Seasonal allergy relief,Drowsiness
+Levocet,Montelukast + Levocetirizine,5 mg,Tablet,Cipla,Allergy,Treats allergies,Sleepiness
+LCZ 5,Levocetirizine,5 mg,Tablet,Cipla,Allergy,Relieves allergic symptoms,Drowsiness
+Levocet 5,Levocetirizine,5 mg,Tablet,Dr Reddy's,Allergy,Antihistamine,Drowsiness
+Histafree,Levocetirizine,5 mg,Tablet,Mankind,Allergy,Treats allergic rhinitis,Headache
+Bilasure 20,Bilastine,20 mg,Tablet,Sun Pharma,Allergy,Non-drowsy antihistamine,Headache
+Bilazap 20,Bilastine,20 mg,Tablet,Intas,Allergy,Treats seasonal allergy,Dizziness
+Montair LC,Montelukast + Levocetirizine,1 Tablet,Tablet,Cipla,Allergy,Treats allergic rhinitis and sneezing,Drowsiness
+Montek LC,Montelukast + Levocetirizine,1 Tablet,Tablet,Sun Pharma,Allergy,Relieves seasonal allergies,Dry mouth
+Montek,Montelukast,10 mg,Tablet,Sun Pharma,Allergy,Prevents asthma and allergies,Headache
+Montemac,Montelukast,10 mg,Tablet,Macleods,Allergy,Controls allergic symptoms,Headache
+Levolin,Salbutamol,2 mg,Tablet,Cipla,Respiratory,Bronchodilator for asthma,Tremors
+Asthalin,Salbutamol,2 mg,Tablet,Cipla,Respiratory,Relieves bronchospasm,Tremors
+Budecort,Budesonide,200 mcg,Inhaler,Cipla,Respiratory,Prevents asthma attacks,Throat irritation
+Foracort,Budesonide + Formoterol,200 mcg,Inhaler,Cipla,Respiratory,Asthma maintenance therapy,Hoarseness
+Duolin,Ipratropium + Levosalbutamol,2.5 ml,Nebulizer,Cipla,Respiratory,Treats COPD and asthma,Dry mouth
+Duova,Tiotropium,18 mcg,Capsule,Cipla,Respiratory,COPD treatment,Dry mouth
+Tiova,Tiotropium,18 mcg,Capsule,Cipla,Respiratory,Long acting bronchodilator,Dry mouth
+Deriphyllin,Etofylline + Theophylline,150 mg,Tablet,Zydus,Respiratory,Relieves breathing difficulty,Nausea
+Mucinac,Acetylcysteine,600 mg,Tablet,Cipla,Respiratory,Mucolytic medicine,Nausea
+Flomist,Fluticasone,50 mcg,Nasal Spray,Cipla,Allergy,Treats allergic rhinitis,Nose irritation
+Nasoclear,Sodium Chloride,0.65%,Nasal Spray,Cipla,Allergy,Relieves nasal congestion,None
+TusQ DX,Dextromethorphan + Phenylephrine + CPM,100 ml,Syrup,Cipla,Cough,Dry cough relief,Drowsiness
+Benadryl,Diphenhydramine,100 ml,Syrup,J&J,Cough,Cough suppressant,Drowsiness
+Alex Syrup,Dextromethorphan,100 ml,Syrup,Glenmark,Cough,Relieves dry cough,Drowsiness
+Ascoril LS,Levosalbutamol + Ambroxol + Guaifenesin,100 ml,Syrup,Glenmark,Cough,Productive cough relief,Nausea
+Grilinctus,Dextromethorphan,100 ml,Syrup,Franco Indian,Cough,Dry cough treatment,Drowsiness
+Zifi 200,Cefixime,200 mg,Tablet,FDC,Antibiotic,Treats bacterial infections,Diarrhea
+Taxim-O,Cefixime,200 mg,Tablet,Alkem,Antibiotic,Cephalosporin antibiotic,Nausea
+Monocef-O,Cefixime,200 mg,Tablet,Aristo,Antibiotic,Treats respiratory infections,Diarrhea
+Cefspan,Cefixime,200 mg,Tablet,Lupin,Antibiotic,Urinary tract infection treatment,Loose stools
+Suprax,Cefixime,200 mg,Tablet,Lupin,Antibiotic,Broad spectrum antibiotic,Nausea
+Cefakind,Cefixime,200 mg,Tablet,Mankind,Antibiotic,Treats bacterial infections,Diarrhea
+O2,Ofloxacin + Ornidazole,1 Tablet,Tablet,Ranbaxy,Antibiotic,Treats mixed infections,Nausea
+Ornof,Ofloxacin + Ornidazole,1 Tablet,Tablet,Aristo,Antibiotic,Anti infective combination,Metallic taste
+Zenflox,Ofloxacin,200 mg,Tablet,Mankind,Antibiotic,Treats bacterial infections,Dizziness
+Tarivid,Ofloxacin,200 mg,Tablet,Sanofi,Antibiotic,Fluoroquinolone antibiotic,Nausea
+Cifran,Ciprofloxacin,500 mg,Tablet,Sun Pharma,Antibiotic,Treats severe infections,Diarrhea
+Ciplox,Ciprofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Nausea
+Levoflox,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats respiratory infections,Dizziness
+Levoday,Levofloxacin,500 mg,Tablet,Lupin,Antibiotic,Bacterial infection treatment,Nausea
+Moxikind-CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Mankind,Antibiotic,Treats bacterial infections,Loose stools
+Novamox,Amoxicillin,500 mg,Capsule,Cipla,Antibiotic,Penicillin antibiotic,Rash
+Mox,Amoxicillin,500 mg,Capsule,Sun Pharma,Antibiotic,Treats bacterial infections,Diarrhea
+Roxid,Roxithromycin,150 mg,Tablet,Alembic,Antibiotic,Macrolide antibiotic,Nausea
+Roxem,Roxithromycin,150 mg,Tablet,Alkem,Antibiotic,Treats respiratory infections,Diarrhea
+Doxy-1 L DR,Doxycycline,100 mg,Capsule,USV,Antibiotic,Treats bacterial infections,Photosensitivity
+Vibramycin,Doxycycline,100 mg,Capsule,Pfizer,Antibiotic,Broad spectrum antibiotic,Nausea
+Clavam,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Alkem,Antibiotic,Treats bacterial infections,Loose stools
+Clindac,Clindamycin,300 mg,Capsule,Cipla,Antibiotic,Treats skin infections,Diarrhea
+Dalacin C,Clindamycin,300 mg,Capsule,Pfizer,Antibiotic,Serious bacterial infections,Nausea
+Tiniba,Tinidazole,500 mg,Tablet,Zydus,Antibiotic,Treats protozoal infections,Metallic taste
+Fasigyn,Tinidazole,500 mg,Tablet,Pfizer,Antibiotic,Treats amoebiasis,Nausea
+Flagyl,Metronidazole,400 mg,Tablet,Abbott,Antibiotic,Anaerobic bacterial infection,Metallic taste
+Metrogyl,Metronidazole,400 mg,Tablet,JB Chemicals,Antibiotic,Treats intestinal infections,Nausea
+Norflox,Norfloxacin,400 mg,Tablet,Cipla,Antibiotic,Treats urinary infections,Dizziness
+Norflox TZ,Norfloxacin + Tinidazole,1 Tablet,Tablet,Cipla,Antibiotic,Treats gastrointestinal infections,Nausea
+Gemer 2,Glimepiride,2 mg,Tablet,Sun Pharma,Diabetes,Controls blood sugar,Hypoglycemia
+Amaryl M,Glimepiride + Metformin,2 mg/500 mg,Tablet,Sanofi,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Istamet XR,Sitagliptin + Metformin,50 mg/1000 mg,Tablet,Sun Pharma,Diabetes,Improves blood sugar control,Nausea
+Januvia,Sitagliptin,100 mg,Tablet,MSD,Diabetes,Treats type 2 diabetes,Headache
+Forxiga,Dapagliflozin,10 mg,Tablet,AstraZeneca,Diabetes,Helps remove excess glucose,Frequent urination
+Jardiance,Empagliflozin,10 mg,Tablet,Boehringer Ingelheim,Diabetes,Lowers blood sugar,Dehydration
+Galvus,Vildagliptin,50 mg,Tablet,Novartis,Diabetes,Treats type 2 diabetes,Headache
+Galvus Met,Vildagliptin + Metformin,50 mg/500 mg,Tablet,Novartis,Diabetes,Combination diabetes medicine,Nausea
+Voglibose MD,Voglibose,0.2 mg,Tablet,Sun Pharma,Diabetes,Reduces post-meal sugar,Gas
+Teneligliptin,Teneligliptin,20 mg,Tablet,Aristo,Diabetes,DPP-4 inhibitor,Headache
+Telma H,Telmisartan + Hydrochlorothiazide,40 mg/12.5 mg,Tablet,Glenmark,Blood Pressure,Treats hypertension,Dizziness
+Olmezest,Olmesartan,20 mg,Tablet,Sun Pharma,Blood Pressure,Lowers blood pressure,Dizziness
+Olmezest AM,Olmesartan + Amlodipine,20 mg/5 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Swelling
+Losar,Losartan,50 mg,Tablet,Unichem,Blood Pressure,Controls hypertension,Dizziness
+Losar H,Losartan + Hydrochlorothiazide,50 mg/12.5 mg,Tablet,Unichem,Blood Pressure,Controls blood pressure,Dizziness
+Amlong,Amlodipine,5 mg,Tablet,Micro Labs,Blood Pressure,Calcium channel blocker,Swelling
+Amlovas,Amlodipine,5 mg,Tablet,Macleods,Blood Pressure,Treats hypertension,Headache
+Metolar XL,Metoprolol,50 mg,Tablet,Cipla,Blood Pressure,Beta blocker,Fatigue
+Prolomet XL,Metoprolol,50 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Dizziness
+Nebicard,Nebivolol,5 mg,Tablet,Torrent,Blood Pressure,Controls high blood pressure,Fatigue
+Nebistar,Nebivolol,5 mg,Tablet,Lupin,Blood Pressure,Hypertension treatment,Dizziness
+Concor,Bisoprolol,5 mg,Tablet,Merck,Blood Pressure,Beta blocker,Fatigue
+Cardace,Ramipril,5 mg,Tablet,Sanofi,Blood Pressure,ACE inhibitor,Dry cough
+Cardace H,Ramipril + Hydrochlorothiazide,5 mg/12.5 mg,Tablet,Sanofi,Blood Pressure,Treats hypertension,Dizziness
+Cilacar,Cilnidipine,10 mg,Tablet,JB Chemicals,Blood Pressure,Lowers blood pressure,Swelling
+Nicardia,Nicardipine,20 mg,Capsule,JB Chemicals,Blood Pressure,Calcium channel blocker,Headache
+Atorlip,Atorvastatin,10 mg,Tablet,Cipla,Cholesterol,Lowers cholesterol,Muscle pain
+Lipikind,Atorvastatin,10 mg,Tablet,Mankind,Cholesterol,Statin medicine,Muscle pain
+Rosuvas,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Reduces cholesterol,Headache
+Roseday,Rosuvastatin,10 mg,Tablet,USV,Cholesterol,Treats high cholesterol,Muscle pain
+Storvas,Atorvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Lowers LDL cholesterol,Muscle pain
+Ecosprin AV,Aspirin + Atorvastatin,75 mg/10 mg,Capsule,USV,Heart Health,Prevents heart attack,Bleeding
+Clopitab,Clopidogrel,75 mg,Tablet,Lupin,Heart Health,Prevents blood clots,Bleeding
+Deplatt,Clopidogrel,75 mg,Tablet,Torrent,Heart Health,Antiplatelet medicine,Bleeding
+Clopivas AP,Clopidogrel + Aspirin,75 mg/75 mg,Capsule,Cipla,Heart Health,Reduces clot formation,Bleeding
+Brilinta,Ticagrelor,90 mg,Tablet,AstraZeneca,Heart Health,Prevents blood clots,Shortness of breath
+Eliquis,Apixaban,5 mg,Tablet,BMS,Anticoagulant,Prevents stroke,Bleeding
+Xarelto,Rivaroxaban,10 mg,Tablet,Bayer,Anticoagulant,Prevents blood clots,Bleeding
+Warf,Warfarin,5 mg,Tablet,Cipla,Anticoagulant,Blood thinner,Bleeding
+Lasix,Furosemide,40 mg,Tablet,Sanofi,Diuretic,Removes excess fluid,Dehydration
+Dytor,Torasemide,10 mg,Tablet,Cipla,Diuretic,Treats edema,Dizziness
+Dytor Plus,Torasemide + Spironolactone,10 mg/50 mg,Tablet,Cipla,Diuretic,Reduces swelling,Frequent urination
+Aldactone,Spironolactone,25 mg,Tablet,RPG Life Sciences,Diuretic,Potassium-sparing diuretic,High potassium
+Digoxin,Digoxin,0.25 mg,Tablet,Abbott,Heart Health,Treats heart failure,Nausea
+Ivabrad,Ivabradine,5 mg,Tablet,Lupin,Heart Health,Reduces heart rate,Dizziness
+Coralan,Ivabradine,5 mg,Tablet,Servier,Heart Health,Treats angina,Brightness in vision
+Nitrocontin,Nitroglycerin,2.6 mg,Tablet,Sun Pharma,Heart Health,Relieves angina,Headache
+Sorbitrate,Isosorbide Dinitrate,5 mg,Tablet,Abbott,Heart Health,Treats chest pain,Headache
+Monotrate,Isosorbide Mononitrate,20 mg,Tablet,Sun Pharma,Heart Health,Prevents angina,Dizziness
+Volibo 0.2,Voglibose,0.2 mg,Tablet,Sun Pharma,Diabetes,Controls post-meal blood sugar,Flatulence
+Volix 0.2,Voglibose,0.2 mg,Tablet,Ranbaxy,Diabetes,Controls post-meal glucose,Bloating
+Istamet,Metformin + Sitagliptin,50/500 mg,Tablet,Sun Pharma,Diabetes,Treats type 2 diabetes,Nausea
+Janumet,Metformin + Sitagliptin,50/500 mg,Tablet,MSD,Diabetes,Blood sugar control,Diarrhea
+Gluconorm G2,Glimepiride + Metformin,2/500 mg,Tablet,Lupin,Diabetes,Controls diabetes,Hypoglycemia
+Gluconorm PG2,Glimepiride + Pioglitazone,2 mg,Tablet,Lupin,Diabetes,Type 2 diabetes,Weight gain
+Gemer 2,Glimepiride,2 mg,Tablet,Sun Pharma,Diabetes,Lowers blood glucose,Hypoglycemia
+Gemer Forte,Glimepiride + Metformin,2/500 mg,Tablet,Sun Pharma,Diabetes,Diabetes treatment,Nausea
+Gemer P2,Glimepiride + Pioglitazone,2 mg,Tablet,Sun Pharma,Diabetes,Controls blood sugar,Weight gain
+Forxiga,Dapagliflozin,10 mg,Tablet,AstraZeneca,Diabetes,Treats diabetes,Frequent urination
+Oxra,Dapagliflozin,10 mg,Tablet,Lupin,Diabetes,Blood sugar control,UTI
+Jardiance,Empagliflozin,10 mg,Tablet,Boehringer Ingelheim,Diabetes,Improves glycemic control,Urinary infection
+Dynaglipt,Miglitol,50 mg,Tablet,Mankind,Diabetes,Reduces post-meal glucose,Gas
+Amlong 5,Amlodipine,5 mg,Tablet,Micro Labs,Blood Pressure,Treats hypertension,Swelling
+Amlovas 5,Amlodipine,5 mg,Tablet,Macleods,Blood Pressure,Controls BP,Dizziness
+Amlokind 5,Amlodipine,5 mg,Tablet,Mankind,Blood Pressure,High blood pressure treatment,Edema
+Amlopres 5,Amlodipine,5 mg,Tablet,Cipla,Blood Pressure,Hypertension,Dizziness
+Repace 25,Losartan,25 mg,Tablet,Sun Pharma,Blood Pressure,Lowers BP,Dizziness
+Repace H,Losartan + Hydrochlorothiazide,50 mg,Tablet,Sun Pharma,Blood Pressure,Hypertension treatment,Weakness
+Losar 50,Losartan,50 mg,Tablet,Unichem,Blood Pressure,Treats hypertension,Dizziness
+Losakind 50,Losartan,50 mg,Tablet,Mankind,Blood Pressure,Blood pressure control,Dizziness
+Olmezest 20,Olmesartan,20 mg,Tablet,Sun Pharma,Blood Pressure,Controls hypertension,Headache
+Olkem 20,Olmesartan,20 mg,Tablet,Alkem,Blood Pressure,Treats high BP,Dizziness
+Olmax 20,Olmesartan,20 mg,Tablet,Glenmark,Blood Pressure,Reduces blood pressure,Fatigue
+Met XL 25,Metoprolol,25 mg,Tablet,Dr Reddy's,Blood Pressure,Treats hypertension,Slow heartbeat
+Betaloc 25,Metoprolol,25 mg,Tablet,AstraZeneca,Blood Pressure,Hypertension,Fatigue
+Concor 5,Bisoprolol,5 mg,Tablet,Merck,Blood Pressure,Controls blood pressure,Dizziness
+Cardace 2.5,Ramipril,2.5 mg,Tablet,Sanofi,Blood Pressure,ACE inhibitor,Dry cough
+Cardace 5,Ramipril,5 mg,Tablet,Sanofi,Blood Pressure,Treats hypertension,Dry cough
+Ramistar 5,Ramipril,5 mg,Tablet,Lupin,Blood Pressure,Hypertension,Dry cough
+Clopilet A75,Aspirin + Clopidogrel,75 mg,Capsule,Sun Pharma,Cardiac,Prevents blood clots,Bleeding
+Clopitab A,Aspirin + Clopidogrel,75 mg,Capsule,Lupin,Cardiac,Heart protection,Bruising
+Ecosprin AV,Aspirin + Atorvastatin,75 mg,Capsule,USV,Cardiac,Heart disease prevention,Stomach upset
+Rosuvas 10,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Lowers cholesterol,Muscle pain
+Rosuvas F,Rosuvastatin + Fenofibrate,10 mg,Tablet,Sun Pharma,Cholesterol,High cholesterol,Muscle pain
+Rozavel 10,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Treats dyslipidemia,Muscle pain
+Tonact 10,Atorvastatin,10 mg,Tablet,Lupin,Cholesterol,Reduces cholesterol,Muscle pain
+Tonact 20,Atorvastatin,20 mg,Tablet,Lupin,Cholesterol,High cholesterol,Liver enzyme increase
+Lipikind 10,Atorvastatin,10 mg,Tablet,Mankind,Cholesterol,Controls cholesterol,Muscle pain
+Storvas 20,Atorvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Hyperlipidemia,Weakness
+Fenolip,Fenofibrate,160 mg,Tablet,Sun Pharma,Cholesterol,Reduces triglycerides,Abdominal pain
+Vertin 16,Betahistine,16 mg,Tablet,Abbott,Vertigo,Treats vertigo,Headache
+Vertin 8,Betahistine,8 mg,Tablet,Abbott,Vertigo,Reduces dizziness,Nausea
+Stugeron,Cinnarizine,25 mg,Tablet,Johnson & Johnson,Vertigo,Motion sickness,Drowsiness
+Avomine,Promethazine,25 mg,Tablet,Rhône-Poulenc,Nausea,Motion sickness,Drowsiness
+Emeset,Ondansetron,4 mg,Tablet,Cipla,Antiemetic,Controls vomiting,Constipation
+Vomikind,Ondansetron,4 mg,Tablet,Mankind,Antiemetic,Prevents nausea,Headache
+Domstal,Domperidone,10 mg,Tablet,Torrent,Gastric,Anti-nausea,Dry mouth
+Domstal DT,Domperidone,10 mg,Tablet,Torrent,Gastric,Treats nausea,Dry mouth
+Perinorm,Metoclopramide,10 mg,Tablet,IPCA,Gastric,Prevents vomiting,Drowsiness
+Cyclopam,Dicyclomine + Paracetamol,Tablet,Indoco,Antispasmodic,Relieves stomach cramps,Dry mouth
+Meftal Spas,Dicyclomine + Mefenamic Acid,Tablet,Blue Cross,Antispasmodic,Menstrual pain,Dizziness
+Drotin,Mefenamic Acid + Drotaverine,Tablet,Walter Bushnell,Antispasmodic,Relieves abdominal pain,Nausea
+Drotin DS,Drotaverine,80 mg,Tablet,Walter Bushnell,Antispasmodic,Muscle spasm relief,Dizziness
+No Spa,Drotaverine,40 mg,Tablet,Sanofi,Antispasmodic,Relieves smooth muscle spasm,Nausea
+Razo 10,Rabeprazole,10 mg,Tablet,Dr. Reddy's,Gastric,Treats acidity and ulcers,Headache
+Razo 20,Rabeprazole,20 mg,Tablet,Dr. Reddy's,Gastric,Controls acid reflux,Headache
+Rabicip 20,Rabeprazole,20 mg,Tablet,Cipla,Gastric,Treats GERD and ulcers,Nausea
+Aciloc 150,Ranitidine,150 mg,Tablet,Cadila,Gastric,Relieves acidity,Constipation
+Digene Gel,Magnesium Hydroxide + Aluminium Hydroxide,10 ml,Syrup,Abbott,Antacid,Quick relief from acidity,Loose stools
+Gelusil,Magaldrate + Simethicone,10 ml,Suspension,Pfizer,Antacid,Relieves gas and acidity,Constipation
+ENO Fruit Salt,Sodium Bicarbonate,5 g,Powder,GSK,Antacid,Fast relief from acidity,Bloating
+ORS Electrolyte,Sodium Chloride + Potassium Chloride,200 ml,Solution,Dabur,Hydration,Prevents dehydration,None
+Electral,ORS,21.8 g,Powder,FDC,Hydration,Oral rehydration solution,None
+Becosules,Vitamin B Complex,1 Capsule,Capsule,Pfizer,Vitamin,Treats vitamin B deficiency,Rare allergy
+Revital H,Ginseng + Multivitamins,1 Capsule,Capsule,Ranbaxy,Vitamin,Daily health supplement,Nausea
+Supradyn Daily,Multivitamins,1 Tablet,Tablet,Bayer,Vitamin,Daily nutritional support,Stomach upset
+Limcee 500,Vitamin C,500 mg,Tablet,Abbott,Vitamin,Vitamin C supplement,Acidity
+Zincovit,Zinc + Multivitamins,1 Tablet,Tablet,Apex,Vitamin,Boosts immunity,Nausea
+Evion 400,Vitamin E,400 mg,Capsule,Merck,Vitamin,Vitamin E supplement,Nausea
+Folvite,Folic Acid,5 mg,Tablet,Pfizer,Vitamin,Treats folate deficiency,Nausea
+Autrin,Iron + Folic Acid,1 Tablet,Tablet,Pfizer,Supplement,Treats iron deficiency anemia,Constipation
+Dexorange,Iron + Vitamin B12,10 ml,Syrup,Franco Indian,Supplement,Improves hemoglobin,Constipation
+Orofer XT,Iron + Folic Acid,1 Tablet,Tablet,Emcure,Supplement,Treats anemia,Nausea
+Livogen,Iron + Folic Acid,1 Capsule,Capsule,Abbott,Supplement,Iron supplementation,Constipation
+Becosules Z,Vitamin B Complex + Zinc,1 Capsule,Capsule,Pfizer,Vitamin,Vitamin B complex with zinc supplement,Rare allergy
+Livogen XT,Iron + Folic Acid,1 Tablet,Tablet,Abbott,Supplement,Treats iron deficiency anemia,Constipation
+Autrin,Iron + Folic Acid,1 Capsule,Capsule,Sun Pharma,Supplement,Iron supplement for anemia,Nausea
+Dexorange Syrup,Ferric Ammonium Citrate + Vitamin B12,10 ml,Syrup,Franco Indian,Supplement,Treats iron deficiency,Constipation
+Revital H,Multivitamins + Ginseng,1 Capsule,Capsule,Sun Pharma,Vitamin,Daily energy supplement,Insomnia
+Supradyn Daily,Multivitamins,1 Tablet,Tablet,Bayer,Vitamin,Complete daily multivitamin,Nausea
+Zincovit,Multivitamins + Zinc,1 Tablet,Tablet,Apex,Vitamin,Immune support supplement,Stomach upset
+Limcee 500,Vitamin C,500 mg,Tablet,Abbott,Vitamin,Vitamin C supplement,Acidity
+Celin 500,Vitamin C,500 mg,Tablet,GSK,Vitamin,Vitamin C deficiency treatment,Acidity
+Evion 400,Vitamin E,400 mg,Capsule,Merck,Vitamin,Vitamin E supplement,Nausea
+Uprise D3,Cholecalciferol,60000 IU,Capsule,Alkem,Vitamin,Vitamin D deficiency treatment,Constipation
+Arachitol Nano,Vitamin D3,60000 IU,Oral Solution,Abbott,Vitamin,Vitamin D supplement,Nausea
+Calcimax Forte,Calcium + Vitamin D3,1 Tablet,Tablet,Meyer,Supplement,Supports bone health,Constipation
+Gemcal,Calcium + Vitamin D3,1 Tablet,Tablet,Alkem,Supplement,Calcium supplementation,Constipation
+Orofer XT,Iron + Folic Acid,1 Tablet,Tablet,Emcure,Supplement,Treats iron deficiency anemia,Nausea
+Folvite 5,Folic Acid,5 mg,Tablet,Pfizer,Vitamin,Folic acid supplementation,Nausea
+Cobadex CZS,Multivitamins + Minerals,1 Capsule,Capsule,GSK,Vitamin,Nutritional supplement,Rare allergy
+Renerve Plus,Methylcobalamin + Alpha Lipoic Acid,1 Capsule,Capsule,Dr Reddy's,Neuropathy,Supports nerve health,Nausea
+Nurokind Gold,Methylcobalamin + Pregabalin,1 Capsule,Capsule,Mankind,Neuropathy,Treats neuropathic pain,Dizziness
+Maxgalin 75,Pregabalin,75 mg,Capsule,Sun Pharma,Neuropathy,Neuropathic pain relief,Drowsiness
+Maxgalin 150,Pregabalin,150 mg,Capsule,Sun Pharma,Neuropathy,Neuropathic pain relief,Drowsiness
+Pregaba 75,Pregabalin,75 mg,Capsule,Torrent,Neuropathy,Nerve pain treatment,Dizziness
+Gabapin 300,Gabapentin,300 mg,Capsule,Intas,Neuropathy,Treats nerve pain,Drowsiness
+Gabaneuron,Gabapentin + Methylcobalamin,1 Tablet,Tablet,Aristo,Neuropathy,Neuropathy management,Dizziness
+Nervup OD,Methylcobalamin,1500 mcg,Tablet,Mankind,Vitamin,Vitamin B12 supplement,Nausea
+Mecobal OD,Methylcobalamin,1500 mcg,Tablet,Intas,Vitamin,Treats B12 deficiency,Nausea
+Shelcal HD,Calcium + Vitamin D3,1 Tablet,Tablet,Torrent,Supplement,High-dose calcium supplement,Constipation
+Caldikind Plus,Calcium + Vitamin D3,1 Tablet,Tablet,Mankind,Supplement,Improves bone strength,Constipation
+Bon K2,Calcium + Vitamin K2,1 Tablet,Tablet,Mankind,Supplement,Supports bone metabolism,Nausea
+Ostocalcium,Calcium + Vitamin D3,10 ml,Syrup,GSK,Supplement,Calcium supplement for children,Constipation
+Digene Gel,Magaldrate + Simethicone,10 ml,Gel,Abbott,Gastric,Relieves acidity and gas,Loose stools
+Digene Tablets,Magaldrate + Simethicone,2 Tablets,Tablet,Abbott,Gastric,Antacid for acidity,Loose stools
+Eno Fruit Salt,Sodium Bicarbonate,5 g,Powder,GSK,Gastric,Quick relief from acidity,Bloating
+Gelusil MPS,Magaldrate + Simethicone,10 ml,Suspension,Pfizer,Gastric,Relieves gas and acidity,Constipation
+Rantac 150,Ranitidine,150 mg,Tablet,JB Chemicals,Gastric,Acidity relief,Headache
+Histac 150,Ranitidine,150 mg,Tablet,Sun Pharma,Gastric,Treats gastric ulcers,Headache
+Sucrafil,Sucralfate,1 g,Suspension,Abbott,Gastric,Protects stomach lining,Constipation
+Ulgel A,Sucralfate + Oxetacaine,10 ml,Suspension,Alembic,Gastric,Ulcer treatment,Dry mouth
+Mucaine Gel,Oxetacaine + Aluminium Hydroxide,10 ml,Gel,Pfizer,Gastric,Relieves ulcer pain,Constipation
+Cyclopam,Dicyclomine + Paracetamol,1 Tablet,Tablet,Indoco,Antispasmodic,Relieves abdominal cramps,Dry mouth
+Meftal Spas,Dicyclomine + Mefenamic Acid,1 Tablet,Tablet,Blue Cross,Antispasmodic,Abdominal pain relief,Nausea
+Colimex,Dicyclomine + Simethicone,10 ml,Drops,Wallace,Antispasmodic,Infant colic relief,Drowsiness
+Buscogast,Hyoscine Butylbromide,10 mg,Tablet,Cipla,Antispasmodic,Relieves stomach cramps,Dry mouth
+Duphalac,Lactulose,15 ml,Syrup,Abbott,Laxative,Treats constipation,Bloating
+Cremaffin,Milk of Magnesia + Liquid Paraffin,15 ml,Syrup,Abbott,Laxative,Constipation relief,Diarrhea
+Softovac,Ispaghula Husk,5 g,Powder,Lupin,Laxative,Natural laxative,Bloating
+Dulcolax,Bisacodyl,5 mg,Tablet,Sanofi,Laxative,Treats constipation,Abdominal cramps
+Peglec,Polyethylene Glycol,17 g,Powder,Cipla,Laxative,Relieves constipation,Bloating
+Electral,ORS,21.8 g,Powder,FDC,Hydration,Oral rehydration salts,Nausea
+WHO ORS,ORS,20.5 g,Powder,Cipla,Hydration,Treats dehydration,Nausea
+Pedialyte,Electrolytes,200 ml,Solution,Abbott,Hydration,Rehydration solution,Nausea
+Enerzal,Electrolytes + Glucose,200 ml,Drink,Alkem,Hydration,Electrolyte replenishment,Nausea
+Cebex 200,Cefixime,200 mg,Tablet,Blue Cross,Antibiotic,Treats bacterial infections,Diarrhea
+Cefolac 200,Cefixime,200 mg,Tablet,Macleods,Antibiotic,Treats respiratory infections,Nausea
+Cefimax 200,Cefixime,200 mg,Tablet,Cipla,Antibiotic,Broad spectrum antibiotic,Loose stools
+Taxim O 400,Cefixime,400 mg,Tablet,Alkem,Antibiotic,Treats severe bacterial infections,Diarrhea
+Cefspan 200,Cefixime,200 mg,Tablet,Lupin,Antibiotic,Used for ENT infections,Nausea
+Cefolac DT,Cefixime,100 mg,Tablet,Macleods,Antibiotic,Dispersible antibiotic tablet,Loose stools
+Monocef O 200,Cefixime,200 mg,Tablet,Aristo,Antibiotic,Treats urinary tract infections,Diarrhea
+Roxid 150,Roxithromycin,150 mg,Tablet,Alembic,Antibiotic,Treats bacterial infections,Nausea
+Roxikem 150,Roxithromycin,150 mg,Tablet,Alkem,Antibiotic,Respiratory infection treatment,Diarrhea
+Roxid 300,Roxithromycin,300 mg,Tablet,Alembic,Antibiotic,Treats severe infections,Nausea
+Levoflox 500,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Dizziness
+Levoday 500,Levofloxacin,500 mg,Tablet,Ranbaxy,Antibiotic,Treats respiratory infections,Nausea
+L Quin 500,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Fluoroquinolone antibiotic,Dizziness
+Levoxin 500,Levofloxacin,500 mg,Tablet,Abbott,Antibiotic,Treats urinary infections,Nausea
+Levoflox 750,Levofloxacin,750 mg,Tablet,Cipla,Antibiotic,Treats complicated infections,Dizziness
+Mox 250,Amoxicillin,250 mg,Capsule,Sun Pharma,Antibiotic,Treats bacterial infections,Rash
+Mox 500,Amoxicillin,500 mg,Capsule,Sun Pharma,Antibiotic,Common antibiotic,Diarrhea
+Novamox 250,Amoxicillin,250 mg,Capsule,Cipla,Antibiotic,Treats ENT infections,Nausea
+Novamox 500,Amoxicillin,500 mg,Capsule,Cipla,Antibiotic,Broad spectrum antibiotic,Diarrhea
+Almox 500,Amoxicillin,500 mg,Capsule,Alkem,Antibiotic,Treats bacterial infections,Rash
+Ampoxin 500,Ampicillin,500 mg,Capsule,Pfizer,Antibiotic,Treats bacterial infections,Diarrhea
+Ampilox,Ampicillin + Cloxacillin,500 mg,Capsule,Sun Pharma,Antibiotic,Treats mixed infections,Nausea
+Megapen,Ampicillin,500 mg,Capsule,Abbott,Antibiotic,Used for respiratory infections,Rash
+Moxikind CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Mankind,Antibiotic,Broad spectrum antibiotic,Loose stools
+Amox CV,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Diarrhea
+Clavam 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Alkem,Antibiotic,Respiratory infection treatment,Nausea
+Cifran 250,Ciprofloxacin,250 mg,Tablet,Ranbaxy,Antibiotic,Treats bacterial infections,Dizziness
+Cifran 500,Ciprofloxacin,500 mg,Tablet,Ranbaxy,Antibiotic,Urinary tract infection treatment,Nausea
+Ciplox 250,Ciprofloxacin,250 mg,Tablet,Cipla,Antibiotic,Broad spectrum antibiotic,Diarrhea
+Ciplox 500,Ciprofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Dizziness
+Ciprobid 500,Ciprofloxacin,500 mg,Tablet,Zydus,Antibiotic,Treats severe infections,Nausea
+Norflox 400,Norfloxacin,400 mg,Tablet,Cipla,Antibiotic,Treats urinary infections,Dizziness
+Norflox TZ,Norfloxacin + Tinidazole,Tablet,Tablet,Cipla,Antibiotic,Treats gastrointestinal infections,Nausea
+Norflox 200,Norfloxacin,200 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Dizziness
+Oflox 200,Ofloxacin,200 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Nausea
+Oflox OZ,Ofloxacin + Ornidazole,Tablet,Tablet,Cipla,Antibiotic,Treats mixed infections,Loose stools
+Oflomac 200,Ofloxacin,200 mg,Tablet,Macleods,Antibiotic,Treats respiratory infections,Dizziness
+Zenflox 200,Ofloxacin,200 mg,Tablet,Mankind,Antibiotic,Fluoroquinolone antibiotic,Nausea
+O2,Ofloxacin + Ornidazole,Tablet,Tablet,Medley,Antibiotic,Treats gastrointestinal infections,Diarrhea
+Lariago,Chloroquine,250 mg,Tablet,Ipca,Antimalarial,Treats malaria,Blurred vision
+HCQS 200,Hydroxychloroquine,200 mg,Tablet,Ipca,Immunology,Autoimmune disease treatment,Nausea
+HCQS 400,Hydroxychloroquine,400 mg,Tablet,Ipca,Immunology,Treats rheumatoid arthritis,Headache
+Plaquenil,Hydroxychloroquine,200 mg,Tablet,Sanofi,Immunology,Treats lupus,Nausea
+Artefan,Artemether + Lumefantrine,Tablet,Tablet,Cipla,Antimalarial,Treats malaria,Dizziness
+Falcigo SP,Sulfadoxine + Pyrimethamine,Tablet,Tablet,Zydus,Antimalarial,Malaria treatment,Nausea
+Primaquine,Primaquine,15 mg,Tablet,Ipca,Antimalarial,Prevents malaria relapse,Abdominal pain
+Tiniba 500,Tinidazole,500 mg,Tablet,Zydus,Antibiotic,Treats protozoal infections,Metallic taste
+Tinidazole 500,Tinidazole,500 mg,Tablet,Cipla,Antibiotic,Treats anaerobic infections,Nausea
+Ornida 500,Ornidazole,500 mg,Tablet,Aristo,Antibiotic,Treats gastrointestinal infections,Dizziness
+Ornidazole 500,Ornidazole,500 mg,Tablet,Cipla,Antibiotic,Treats anaerobic bacterial infections,Nausea
+Cefolac 200,Cefixime,200 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Diarrhea
+Taxim-O 200,Cefixime,200 mg,Tablet,Alkem,Antibiotic,Broad-spectrum antibiotic,Nausea
+Moxikind-CV 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Mankind,Antibiotic,Treats respiratory infections,Loose stools
+Megapen,Amoxicillin,500 mg,Capsule,Aristo,Antibiotic,Treats bacterial infections,Rash
+Novamox 500,Amoxicillin,500 mg,Capsule,Cipla,Antibiotic,Penicillin antibiotic,Nausea
+Cifran 500,Ciprofloxacin,500 mg,Tablet,Ranbaxy,Antibiotic,Treats urinary infections,Dizziness
+Ciplox TZ,Ciprofloxacin + Tinidazole,Tablet,Tablet,Cipla,Antibiotic,Treats mixed infections,Nausea
+Levoflox 500,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Dizziness
+Levoquin 500,Levofloxacin,500 mg,Tablet,Abbott,Antibiotic,Treats respiratory infections,Headache
+Mox 400,Moxifloxacin,400 mg,Tablet,Sun Pharma,Antibiotic,Treats severe bacterial infections,Nausea
+Monocef-O 200,Cefpodoxime,200 mg,Tablet,Aristo,Antibiotic,Treats bacterial infections,Loose stools
+Mahacef Plus,Cefixime + Ofloxacin,Tablet,Tablet,Mankind,Antibiotic,Broad-spectrum antibiotic,Diarrhea
+Pantakind DSR,Pantoprazole + Domperidone,40 mg,Capsule,Mankind,Gastric,Relieves acidity,Dry mouth
+Rabekind DSR,Rabeprazole + Domperidone,20 mg,Capsule,Mankind,Gastric,Treats GERD,Constipation
+Esomac D,Esomeprazole + Domperidone,40 mg,Capsule,Cipla,Gastric,Controls acidity,Dry mouth
+Digene Gel,Magnesium Hydroxide + Aluminium Hydroxide,Syrup,Syrup,Abbott,Gastric,Relieves heartburn,Diarrhea
+Gelusil MPS,Magaldrate + Simethicone,Suspension,Syrup,Pfizer,Gastric,Relieves gas and acidity,Constipation
+ENO Fruit Salt,Sodium Bicarbonate + Citric Acid,Powder,Sachet,GSK,Gastric,Instant acidity relief,Bloating
+Gaviscon,Alginate + Antacid,100 ml,Suspension,Reckitt,Gastric,Relieves acid reflux,Nausea
+Pudin Hara Capsules,Peppermint Oil,Capsule,Capsule,Dabur,Digestive,Relieves indigestion,Rare allergy
+Glycomet GP 1,Metformin + Glimepiride,500 mg,Tablet,USV,Diabetes,Controls blood sugar,Hypoglycemia
+Glycomet GP 2,Metformin + Glimepiride,500 mg,Tablet,USV,Diabetes,Type 2 diabetes treatment,Hypoglycemia
+Glycomet Trio,Metformin + Glimepiride + Voglibose,Tablet,Tablet,USV,Diabetes,Improves blood sugar control,Flatulence
+Amaryl 1,Glimepiride,1 mg,Tablet,Sanofi,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Amaryl 2,Glimepiride,2 mg,Tablet,Sanofi,Diabetes,Lowers blood sugar,Hypoglycemia
+Glimisave M1,Glimepiride + Metformin,Tablet,Tablet,Eris,Diabetes,Controls diabetes,Hypoglycemia
+Istamet 50/500,Sitagliptin + Metformin,Tablet,Tablet,Sun Pharma,Diabetes,Improves glycemic control,Nausea
+Janumet 50/500,Sitagliptin + Metformin,Tablet,Tablet,MSD,Diabetes,Type 2 diabetes treatment,Diarrhea
+Januvia 100,Sitagliptin,100 mg,Tablet,MSD,Diabetes,Controls blood sugar,Headache
+Galvus 50,Vildagliptin,50 mg,Tablet,Novartis,Diabetes,Type 2 diabetes treatment,Dizziness
+Galvus Met,Vildagliptin + Metformin,Tablet,Tablet,Novartis,Diabetes,Improves blood sugar control,Nausea
+Zita 100,Sitagliptin,100 mg,Tablet,Glenmark,Diabetes,Controls blood sugar,Headache
+Ziten M,Sitagliptin + Metformin,Tablet,Tablet,Glenmark,Diabetes,Type 2 diabetes treatment,Diarrhea
+Tenepride 20,Teneligliptin,20 mg,Tablet,Mankind,Diabetes,Treats type 2 diabetes,Constipation
+Teneza 20,Teneligliptin,20 mg,Tablet,Sun Pharma,Diabetes,Improves blood sugar,Dizziness
+Vobit 0.2,Voglibose,0.2 mg,Tablet,Sun Pharma,Diabetes,Reduces post-meal sugar,Flatulence
+Volibo 0.2,Voglibose,0.2 mg,Tablet,Ranbaxy,Diabetes,Controls postprandial glucose,Gas
+Forxiga 10,Dapagliflozin,10 mg,Tablet,AstraZeneca,Diabetes,Lowers blood sugar,Frequent urination
+Jardiance 10,Empagliflozin,10 mg,Tablet,Boehringer Ingelheim,Diabetes,Improves blood sugar,Urinary infection
+Glyxambi,Empagliflozin + Linagliptin,Tablet,Tablet,Boehringer Ingelheim,Diabetes,Controls type 2 diabetes,Urinary infection
+Glycomet SR 500,Metformin SR,500 mg,Tablet,USV,Diabetes,Sustained release metformin for type 2 diabetes,Diarrhea
+Glycomet SR 1000,Metformin SR,1000 mg,Tablet,USV,Diabetes,Long acting blood sugar control,Nausea
+Obimet 500,Metformin,500 mg,Tablet,Corona,Diabetes,Controls blood glucose,Stomach upset
+Obimet GX1,Glimepiride + Metformin,1 mg/500 mg,Tablet,Corona,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Cetapin 500,Metformin,500 mg,Tablet,Sanofi,Diabetes,Improves insulin sensitivity,Diarrhea
+Cetapin XR 1000,Metformin XR,1000 mg,Tablet,Sanofi,Diabetes,Extended release diabetes medicine,Nausea
+Gluconorm G1,Glimepiride + Metformin,1 mg/500 mg,Tablet,Lupin,Diabetes,Controls blood sugar,Hypoglycemia
+Gluconorm G2,Glimepiride + Metformin,2 mg/500 mg,Tablet,Lupin,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Gluconorm PG2,Pioglitazone + Glimepiride + Metformin,Tablet,Tablet,Lupin,Diabetes,Triple therapy for diabetes,Weight gain
+Pioz 15,Pioglitazone,15 mg,Tablet,USV,Diabetes,Improves insulin sensitivity,Weight gain
+Pioz 30,Pioglitazone,30 mg,Tablet,USV,Diabetes,Controls blood sugar,Edema
+Piokind 15,Pioglitazone,15 mg,Tablet,Mankind,Diabetes,Type 2 diabetes treatment,Weight gain
+K-Glim M1,Glimepiride + Metformin,1 mg/500 mg,Tablet,Alkem,Diabetes,Improves glycemic control,Hypoglycemia
+K-Glim M2,Glimepiride + Metformin,2 mg/500 mg,Tablet,Alkem,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Voglirapid 0.3,Voglibose,0.3 mg,Tablet,Sun Pharma,Diabetes,Controls post-meal blood sugar,Flatulence
+Vobose 0.3,Voglibose,0.3 mg,Tablet,Cipla,Diabetes,Reduces postprandial glucose,Gas
+Tenepride M,Teneligliptin + Metformin,Tablet,Tablet,Mankind,Diabetes,Combination therapy for diabetes,Nausea
+Jardiance 25,Empagliflozin,25 mg,Tablet,Boehringer Ingelheim,Diabetes,Improves blood sugar control,Urinary tract infection
+Forxiga 5,Dapagliflozin,5 mg,Tablet,AstraZeneca,Diabetes,Controls blood glucose,Frequent urination
+Xigduo XR,Dapagliflozin + Metformin XR,Tablet,Tablet,AstraZeneca,Diabetes,Combination diabetes therapy,Nausea
+Jentadueto,Linagliptin + Metformin,Tablet,Tablet,Boehringer Ingelheim,Diabetes,Improves glycemic control,Diarrhea
+Trajenta,Linagliptin,5 mg,Tablet,Boehringer Ingelheim,Diabetes,Treats type 2 diabetes,Headache
+Trajenta Duo,Linagliptin + Metformin,Tablet,Tablet,Boehringer Ingelheim,Diabetes,Combination diabetes medicine,Nausea
+Glycomet VG2,Metformin + Voglibose,Tablet,Tablet,USV,Diabetes,Controls post-meal blood sugar,Flatulence
+Voglimac MF,Voglibose + Metformin,Tablet,Tablet,Macleods,Diabetes,Combination diabetes therapy,Gas
+Tenepride 20,Teneligliptin,20 mg,Tablet,Dr Reddy's,Diabetes,Improves blood sugar control,Constipation
+Tenlimac M,Teneligliptin + Metformin,Tablet,Tablet,Macleods,Diabetes,Type 2 diabetes treatment,Nausea
+Gluformin G1,Metformin + Glimepiride,Tablet,Tablet,Abbott,Diabetes,Combination therapy,Hypoglycemia
+Zoryl M1,Glimepiride + Metformin,Tablet,Tablet,Intas,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Azulix MF,Glimepiride + Metformin,Tablet,Tablet,Torrent,Diabetes,Controls blood sugar,Hypoglycemia
+Amlong 5,Amlodipine,5 mg,Tablet,Micro Labs,Blood Pressure,Treats hypertension,Ankle swelling
+Amlong 10,Amlodipine,10 mg,Tablet,Micro Labs,Blood Pressure,Lowers blood pressure,Dizziness
+Amlokind 5,Amlodipine,5 mg,Tablet,Mankind,Blood Pressure,Treats hypertension,Headache
+Amlovas 5,Amlodipine,5 mg,Tablet,MacLeods,Blood Pressure,Calcium channel blocker,Dizziness
+Stamlo 5,Amlodipine,5 mg,Tablet,Dr Reddy's,Blood Pressure,Controls high blood pressure,Swelling
+Olmezest 20,Olmesartan,20 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Dizziness
+Olmezest 40,Olmesartan,40 mg,Tablet,Sun Pharma,Blood Pressure,Reduces high blood pressure,Dizziness
+Olmetor 20,Olmesartan,20 mg,Tablet,Hetero,Blood Pressure,Angiotensin receptor blocker,Headache
+Olmat 20,Olmesartan,20 mg,Tablet,Cipla,Blood Pressure,Treats hypertension,Dizziness
+Olmy 20,Olmesartan,20 mg,Tablet,Alkem,Blood Pressure,Controls blood pressure,Fatigue
+Olmy H,Olmesartan + Hydrochlorothiazide,Tablet,Tablet,Alkem,Blood Pressure,Treats hypertension,Dizziness
+Olmezest H,Olmesartan + Hydrochlorothiazide,Tablet,Tablet,Sun Pharma,Blood Pressure,Controls high blood pressure,Fatigue
+Olmetor H,Olmesartan + Hydrochlorothiazide,Tablet,Tablet,Hetero,Blood Pressure,Reduces blood pressure,Dizziness
+Losar 25,Losartan,25 mg,Tablet,Unichem,Blood Pressure,Treats hypertension,Dizziness
+Losar 50,Losartan,50 mg,Tablet,Unichem,Blood Pressure,Lowers blood pressure,Headache
+Losar H,Losartan + Hydrochlorothiazide,Tablet,Tablet,Unichem,Blood Pressure,Combination antihypertensive,Dizziness
+Repace 25,Losartan,25 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Fatigue
+Repace 50,Losartan,50 mg,Tablet,Sun Pharma,Blood Pressure,Controls blood pressure,Dizziness
+Repace H,Losartan + Hydrochlorothiazide,Tablet,Tablet,Sun Pharma,Blood Pressure,Combination BP medicine,Headache
+Nicardia Retard,Nifedipine,20 mg,Tablet,JB Chemicals,Blood Pressure,Calcium channel blocker,Flushing
+Nicardia CD,Nifedipine,30 mg,Tablet,JB Chemicals,Blood Pressure,Treats hypertension,Dizziness
+Cardace 1.25,Ramipril,1.25 mg,Tablet,Sanofi,Blood Pressure,ACE inhibitor,Dry cough
+Cardace 2.5,Ramipril,2.5 mg,Tablet,Sanofi,Blood Pressure,Controls hypertension,Dizziness
+Cardace 5,Ramipril,5 mg,Tablet,Sanofi,Blood Pressure,Treats heart failure,Dry cough
+Ramistar 2.5,Ramipril,2.5 mg,Tablet,Lupin,Blood Pressure,ACE inhibitor,Headache
+Ramistar 5,Ramipril,5 mg,Tablet,Lupin,Blood Pressure,Lowers blood pressure,Dry cough
+Metolar 25,Metoprolol,25 mg,Tablet,Cipla,Cardiology,Beta blocker for hypertension,Fatigue
+Metolar 50,Metoprolol,50 mg,Tablet,Cipla,Cardiology,Treats hypertension and angina,Dizziness
+Betaloc 25,Metoprolol,25 mg,Tablet,AstraZeneca,Cardiology,Beta blocker,Slow heart rate
+Betaloc 50,Metoprolol,50 mg,Tablet,AstraZeneca,Cardiology,Controls blood pressure,Fatigue
+Atorlip 10,Atorvastatin,10 mg,Tablet,Cipla,Cholesterol,Lowers LDL cholesterol,Muscle pain
+Atorlip 20,Atorvastatin,20 mg,Tablet,Cipla,Cholesterol,Treats hyperlipidemia,Headache
+Atorva 10,Atorvastatin,10 mg,Tablet,Zydus,Cholesterol,Lowers cholesterol,Muscle pain
+Atorva 20,Atorvastatin,20 mg,Tablet,Zydus,Cholesterol,Treats high cholesterol,Nausea
+Lipikind 10,Atorvastatin,10 mg,Tablet,Mankind,Cholesterol,Reduces cardiovascular risk,Muscle pain
+Lipikind 20,Atorvastatin,20 mg,Tablet,Mankind,Cholesterol,Controls cholesterol,Headache
+Storvas 10,Atorvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Lipid lowering medicine,Muscle pain
+Storvas 20,Atorvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Treats hyperlipidemia,Nausea
+Tonact 10,Atorvastatin,10 mg,Tablet,Lupin,Cholesterol,Reduces cholesterol,Muscle cramps
+Tonact 20,Atorvastatin,20 mg,Tablet,Lupin,Cholesterol,Prevents heart disease,Headache
+Rosuvas 5,Rosuvastatin,5 mg,Tablet,Sun Pharma,Cholesterol,Lowers LDL cholesterol,Muscle pain
+Rosuvas 10,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Reduces cardiovascular risk,Headache
+Rosuvas 20,Rosuvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Controls cholesterol,Muscle pain
+Rozavel 10,Rosuvastatin,10 mg,Tablet,Sun Pharma,Cholesterol,Treats hyperlipidemia,Nausea
+Rozavel 20,Rosuvastatin,20 mg,Tablet,Sun Pharma,Cholesterol,Reduces cholesterol,Muscle cramps
+Rosulip 10,Rosuvastatin,10 mg,Tablet,Cipla,Cholesterol,Lowers cholesterol,Headache
+Rosulip 20,Rosuvastatin,20 mg,Tablet,Cipla,Cholesterol,Cardiovascular protection,Muscle pain
+Ecosprin 75,Aspirin,75 mg,Tablet,USV,Cardiology,Prevents blood clots,Bleeding
+Ecosprin 150,Aspirin,150 mg,Tablet,USV,Cardiology,Antiplatelet medicine,Stomach irritation
+Ecosprin AV,Aspirin + Atorvastatin,Capsule,Capsule,USV,Cardiology,Heart protection,Bleeding
+Clopitab 75,Clopidogrel,75 mg,Tablet,Lupin,Cardiology,Prevents stroke,Bleeding
+Clopilet 75,Clopidogrel,75 mg,Tablet,Sun Pharma,Cardiology,Antiplatelet therapy,Bruising
+Deplatt 75,Clopidogrel,75 mg,Tablet,Torrent,Cardiology,Prevents heart attack,Bleeding
+Ceruvin A,Aspirin + Clopidogrel,Capsule,Capsule,Torrent,Cardiology,Dual antiplatelet therapy,Bleeding
+Clopivas AP,Aspirin + Clopidogrel,Capsule,Capsule,Cipla,Cardiology,Heart protection,Bruising
+Rosuvas CV,Rosuvastatin + Clopidogrel,Capsule,Capsule,Sun Pharma,Cardiology,Prevents cardiovascular disease,Muscle pain
+Atorlip CV,Atorvastatin + Clopidogrel,Capsule,Capsule,Cipla,Cardiology,Heart protection,Bleeding
+Nitrocontin 2.6,Nitroglycerin,2.6 mg,Tablet,Sun Pharma,Cardiology,Treats angina,Headache
+Nitrocontin 6.4,Nitroglycerin,6.4 mg,Tablet,Sun Pharma,Cardiology,Prevents chest pain,Dizziness
+Sorbitrate 5,Nitroglycerin,5 mg,Tablet,Abbott,Cardiology,Relieves angina,Headache
+Sorbitrate 10,Nitroglycerin,10 mg,Tablet,Abbott,Cardiology,Treats chest pain,Dizziness
+Ismo 20,Isosorbide Mononitrate,20 mg,Tablet,Sun Pharma,Cardiology,Prevents angina,Headache
+Monotrate 20,Isosorbide Mononitrate,20 mg,Tablet,Intas,Cardiology,Long-term angina treatment,Dizziness
+Cordarone 200,Amiodarone,200 mg,Tablet,Sanofi,Cardiology,Treats arrhythmia,Thyroid disorders
+Amifru,Furosemide + Amiloride,Tablet,Tablet,Torrent,Cardiology,Treats edema,Frequent urination
+Lasix 40,Furosemide,40 mg,Tablet,Sanofi,Cardiology,Diuretic for edema,Dehydration
+Lasix 20,Furosemide,20 mg,Tablet,Sanofi,Cardiology,Reduces fluid retention,Dizziness
+Dytor 5,Torsemide,5 mg,Tablet,Cipla,Cardiology,Treats edema,Frequent urination
+Dytor 10,Torsemide,10 mg,Tablet,Cipla,Cardiology,Diuretic therapy,Low potassium
+Dytor Plus,Torsemide + Spironolactone,Tablet,Tablet,Cipla,Cardiology,Heart failure treatment,Dizziness
+Lasilactone,Furosemide + Spironolactone,Capsule,Capsule,Sun Pharma,Cardiology,Reduces edema,Frequent urination
+Aldactone 25,Spironolactone,25 mg,Tablet,Pfizer,Cardiology,Treats heart failure,High potassium
+Aldactone 50,Spironolactone,50 mg,Tablet,Pfizer,Cardiology,Diuretic,Hyperkalemia
+Carca 3.125,Carvedilol,3.125 mg,Tablet,Intas,Cardiology,Beta blocker,Dizziness
+Carca 6.25,Carvedilol,6.25 mg,Tablet,Intas,Cardiology,Treats heart failure,Fatigue
+Carca 12.5,Carvedilol,12.5 mg,Tablet,Intas,Cardiology,Controls hypertension,Slow pulse
+Dilzem 30,Diltiazem,30 mg,Tablet,Sun Pharma,Cardiology,Calcium channel blocker,Dizziness
+Dilzem 60,Diltiazem,60 mg,Tablet,Sun Pharma,Cardiology,Treats angina,Headache
+Verapamil 40,Verapamil,40 mg,Tablet,Abbott,Cardiology,Treats arrhythmia,Constipation
+Verapamil 80,Verapamil,80 mg,Tablet,Abbott,Cardiology,Controls hypertension,Dizziness
+Digoxin 0.25,Digoxin,0.25 mg,Tablet,Abbott,Cardiology,Treats heart failure,Nausea
+Lanoxin,Digoxin,0.25 mg,Tablet,GSK,Cardiology,Improves cardiac output,Blurred vision
+Ivabrad 5,Ivabradine,5 mg,Tablet,Lupin,Cardiology,Reduces heart rate,Brightness in vision
+Ivabrad 7.5,Ivabradine,7.5 mg,Tablet,Lupin,Cardiology,Treats chronic heart failure,Headache
+Brilinta 90,Ticagrelor,90 mg,Tablet,AstraZeneca,Cardiology,Antiplatelet therapy,Bleeding
+Brilinta 60,Ticagrelor,60 mg,Tablet,AstraZeneca,Cardiology,Prevents cardiovascular events,Bruising
+Prasita 10,Prasugrel,10 mg,Tablet,Ranbaxy,Cardiology,Prevents blood clots,Bleeding
+Prazopress 1,Prazosin,1 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Dizziness
+Prazopress XL,Prazosin,2.5 mg,Tablet,Sun Pharma,Blood Pressure,Controls blood pressure,Fatigue
+Minipress XL,Prazosin,2.5 mg,Tablet,Pfizer,Blood Pressure,Alpha blocker,Dizziness
+Nebicard 2.5,Nebivolol,2.5 mg,Tablet,Torrent,Blood Pressure,Beta blocker,Fatigue
+Nebicard 5,Nebivolol,5 mg,Tablet,Torrent,Blood Pressure,Treats hypertension,Headache
+Nebistar 5,Nebivolol,5 mg,Tablet,Lupin,Blood Pressure,Controls blood pressure,Dizziness
+Levipil 250,Levetiracetam,250 mg,Tablet,Sun Pharma,Neurology,Controls epileptic seizures,Dizziness
+Levipil 500,Levetiracetam,500 mg,Tablet,Sun Pharma,Neurology,Controls epilepsy,Drowsiness
+Keppra 500,Levetiracetam,500 mg,Tablet,UCB,Neurology,Anti-epileptic medicine,Weakness
+Torleva 500,Levetiracetam,500 mg,Tablet,Torrent,Neurology,Treats seizures,Dizziness
+Valparin 200,Sodium Valproate,200 mg,Tablet,Sanofi,Neurology,Controls epilepsy,Weight gain
+Valparin 500,Sodium Valproate,500 mg,Tablet,Sanofi,Neurology,Prevents seizures,Nausea
+Chrono 500,Sodium Valproate,500 mg,Tablet,Torrent,Neurology,Epilepsy treatment,Drowsiness
+Topamac 25,Topiramate,25 mg,Tablet,Janssen,Neurology,Prevents migraines,Tingling
+Topamac 50,Topiramate,50 mg,Tablet,Janssen,Neurology,Epilepsy medicine,Dizziness
+Topirol 50,Topiramate,50 mg,Tablet,Cipla,Neurology,Anti-epileptic,Fatigue
+Lamitor 25,Lamotrigine,25 mg,Tablet,Torrent,Neurology,Treats epilepsy,Rash
+Lamitor 50,Lamotrigine,50 mg,Tablet,Torrent,Neurology,Controls seizures,Dizziness
+Lamictal 50,Lamotrigine,50 mg,Tablet,GSK,Neurology,Epilepsy medicine,Blurred vision
+Gabapin 100,Gabapentin,100 mg,Capsule,Intas,Neurology,Nerve pain treatment,Dizziness
+Gabapin 300,Gabapentin,300 mg,Capsule,Intas,Neurology,Treats neuropathy,Drowsiness
+Gabaneuron 300,Gabapentin,300 mg,Capsule,Aristo,Neurology,Neuropathic pain,Fatigue
+Pregalin 75,Pregabalin,75 mg,Capsule,Torrent,Neurology,Nerve pain,Dizziness
+Pregalin 150,Pregabalin,150 mg,Capsule,Torrent,Neurology,Treats neuropathy,Drowsiness
+Maxgalin 75,Pregabalin,75 mg,Capsule,Sun Pharma,Neurology,Nerve pain,Weight gain
+Maxgalin 150,Pregabalin,150 mg,Capsule,Sun Pharma,Neurology,Neuropathy,Dizziness
+Lyrica 75,Pregabalin,75 mg,Capsule,Pfizer,Neurology,Neuropathic pain,Drowsiness
+Lyrica 150,Pregabalin,150 mg,Capsule,Pfizer,Neurology,Epilepsy support,Dizziness
+Neugaba 75,Pregabalin,75 mg,Capsule,Zydus,Neurology,Nerve pain,Fatigue
+Neugaba 150,Pregabalin,150 mg,Capsule,Zydus,Neurology,Neuropathy,Dizziness
+Rivotril 0.5,Clonazepam,0.5 mg,Tablet,Roche,Neurology,Anxiety and seizures,Drowsiness
+Rivotril 1,Clonazepam,1 mg,Tablet,Roche,Neurology,Epilepsy treatment,Dizziness
+Clonotril 0.5,Clonazepam,0.5 mg,Tablet,Sun Pharma,Neurology,Controls anxiety,Sleepiness
+Clonotril 1,Clonazepam,1 mg,Tablet,Sun Pharma,Neurology,Seizure control,Drowsiness
+Petril 0.5,Clonazepam,0.5 mg,Tablet,Micro Labs,Neurology,Anxiety treatment,Dizziness
+Petril 1,Clonazepam,1 mg,Tablet,Micro Labs,Neurology,Anti-anxiety medicine,Drowsiness
+Alprax 0.25,Alprazolam,0.25 mg,Tablet,Torrent,Psychiatry,Relieves anxiety,Drowsiness
+Alprax 0.5,Alprazolam,0.5 mg,Tablet,Torrent,Psychiatry,Anxiety medicine,Dizziness
+Restyl 0.5,Alprazolam,0.5 mg,Tablet,Cipla,Psychiatry,Reduces anxiety,Sleepiness
+Restyl 1,Alprazolam,1 mg,Tablet,Cipla,Psychiatry,Treats panic disorder,Drowsiness
+Zapiz 0.25,Clonazepam,0.25 mg,Tablet,Intas,Psychiatry,Anxiety relief,Dizziness
+Zapiz 0.5,Clonazepam,0.5 mg,Tablet,Intas,Psychiatry,Controls panic attacks,Drowsiness
+Nexito 5,Escitalopram,5 mg,Tablet,Sun Pharma,Psychiatry,Depression treatment,Nausea
+Nexito 10,Escitalopram,10 mg,Tablet,Sun Pharma,Psychiatry,Anxiety treatment,Insomnia
+Nexito 20,Escitalopram,20 mg,Tablet,Sun Pharma,Psychiatry,Major depression,Nausea
+Cital 10,Escitalopram,10 mg,Tablet,Cipla,Psychiatry,Depression medicine,Dizziness
+Cital 20,Escitalopram,20 mg,Tablet,Cipla,Psychiatry,Anxiety medicine,Nausea
+Serlift 25,Sertraline,25 mg,Tablet,Abbott,Psychiatry,Treats depression,Nausea
+Serlift 50,Sertraline,50 mg,Tablet,Abbott,Psychiatry,Anxiety disorder,Headache
+Serlift 100,Sertraline,100 mg,Tablet,Abbott,Psychiatry,OCD treatment,Dry mouth
+Zosert 50,Sertraline,50 mg,Tablet,Sun Pharma,Psychiatry,Depression medicine,Nausea
+Zosert 100,Sertraline,100 mg,Tablet,Sun Pharma,Psychiatry,Anxiety treatment,Dizziness
+Fludac 20,Fluoxetine,20 mg,Capsule,Sun Pharma,Psychiatry,Depression treatment,Nausea
+Fludac 40,Fluoxetine,40 mg,Capsule,Sun Pharma,Psychiatry,Obsessive disorders,Insomnia
+Prodep 20,Fluoxetine,20 mg,Capsule,Sun Pharma,Psychiatry,Depression medicine,Headache
+Venlift OD 37.5,Venlafaxine,37.5 mg,Tablet,Sun Pharma,Psychiatry,Depression treatment,Nausea
+Venlift OD 75,Venlafaxine,75 mg,Tablet,Sun Pharma,Psychiatry,Anxiety disorder,Dizziness
+Venlift OD 150,Venlafaxine,150 mg,Tablet,Sun Pharma,Psychiatry,Major depression,Sweating
+Oleanz 5,Olanzapine,5 mg,Tablet,Sun Pharma,Psychiatry,Schizophrenia,Weight gain
+Oleanz 10,Olanzapine,10 mg,Tablet,Sun Pharma,Psychiatry,Bipolar disorder,Drowsiness
+Olanex 5,Olanzapine,5 mg,Tablet,Ranbaxy,Psychiatry,Psychotic disorders,Weight gain
+Olanex 10,Olanzapine,10 mg,Tablet,Ranbaxy,Psychiatry,Schizophrenia,Drowsiness
+Risperdal 2,Risperidone,2 mg,Tablet,Janssen,Psychiatry,Schizophrenia,Dizziness
+Risperdal 4,Risperidone,4 mg,Tablet,Janssen,Psychiatry,Bipolar disorder,Drowsiness
+Sizodon 2,Risperidone,2 mg,Tablet,Sun Pharma,Psychiatry,Psychotic illness,Weight gain
+Sizodon 4,Risperidone,4 mg,Tablet,Sun Pharma,Psychiatry,Schizophrenia,Dizziness
+Thyronorm 25,Levothyroxine,25 mcg,Tablet,Abbott,Thyroid,Treats hypothyroidism,Palpitations
+Thyronorm 50,Levothyroxine,50 mcg,Tablet,Abbott,Thyroid,Thyroid hormone replacement,Headache
+Thyronorm 75,Levothyroxine,75 mcg,Tablet,Abbott,Thyroid,Treats hypothyroidism,Nervousness
+Thyronorm 100,Levothyroxine,100 mcg,Tablet,Abbott,Thyroid,Restores thyroid hormone levels,Palpitations
+Eltroxin 25,Levothyroxine,25 mcg,Tablet,GSK,Thyroid,Hypothyroidism treatment,Insomnia
+Eltroxin 50,Levothyroxine,50 mcg,Tablet,GSK,Thyroid,Thyroid replacement therapy,Headache
+Eltroxin 100,Levothyroxine,100 mcg,Tablet,GSK,Thyroid,Controls hypothyroidism,Tremor
+Neo Mercazole,Carbimazole,5 mg,Tablet,Abbott,Thyroid,Treats hyperthyroidism,Rash
+Thyrocab,Carbimazole,5 mg,Tablet,Abbott,Thyroid,Reduces thyroid hormone production,Nausea
+Fosamax 70,Alendronate,70 mg,Tablet,MSD,Bone Health,Treats osteoporosis,Heartburn
+Osteofos 70,Alendronate,70 mg,Tablet,Cipla,Bone Health,Strengthens bones,Stomach irritation
+Bonmax 70,Alendronate,70 mg,Tablet,Sun Pharma,Bone Health,Osteoporosis treatment,Acidity
+Risedron 35,Risedronate,35 mg,Tablet,Dr Reddy's,Bone Health,Prevents bone loss,Joint pain
+Risedron 75,Risedronate,75 mg,Tablet,Dr Reddy's,Bone Health,Treats osteoporosis,Heartburn
+Calcimax 500,Calcium Carbonate + Vitamin D3,500 mg,Tablet,Meyer,Supplement,Calcium supplementation,Constipation
+Calcimax Forte,Calcium + Vitamin D3 + Zinc,Tablet,Tablet,Meyer,Supplement,Bone health supplement,Constipation
+Gemcal,Calcium + Vitamin D3,Tablet,Tablet,Alkem,Supplement,Supports bone strength,Constipation
+Gemcal XT,Calcium + Vitamin D3 + Minerals,Tablet,Tablet,Alkem,Supplement,Nutritional supplement,Nausea
+Bon K2,Calcium + Vitamin D3 + Vitamin K2,Tablet,Tablet,Mankind,Supplement,Supports bone health,Constipation
+Corcium K2,Calcium + K2-7,Tablet,Tablet,Corona,Supplement,Improves bone density,Nausea
+Evion 200,Vitamin E,200 mg,Capsule,Merck,Vitamin,Vitamin E supplement,Nausea
+Evion 400,Vitamin E,400 mg,Capsule,Merck,Vitamin,Antioxidant supplement,Headache
+Limcee 500,Vitamin C,500 mg,Tablet,Abbott,Vitamin,Vitamin C supplement,Acidity
+Limcee 1000,Vitamin C,1000 mg,Tablet,Abbott,Vitamin,Boosts immunity,Acidity
+Celin 500,Vitamin C,500 mg,Tablet,GSK,Vitamin,Treats vitamin C deficiency,Heartburn
+Celin 1000,Vitamin C,1000 mg,Tablet,GSK,Vitamin,Supports immune health,Nausea
+Uprise D3,Cholecalciferol,60000 IU,Capsule,Alkem,Vitamin,Vitamin D supplementation,Constipation
+D-Rise 60000,Cholecalciferol,60000 IU,Capsule,USV,Vitamin,Treats vitamin D deficiency,Nausea
+Calcirol,Cholecalciferol,60000 IU,Capsule,Cadila,Vitamin,Vitamin D replacement,Constipation
+Arachitol Nano,Vitamin D3,60000 IU,Oral Solution,Abbott,Vitamin,Treats vitamin D deficiency,Nausea
+Benadon,Vitamin B6,40 mg,Tablet,Abbott,Vitamin,Treats vitamin B6 deficiency,Nausea
+Nurokind Gold,Methylcobalamin + Alpha Lipoic Acid,Capsule,Mankind,Vitamin,Nerve health supplement,Dizziness
+Rejunex CD3,Methylcobalamin + Pregabalin,Capsule,Sun Pharma,Neurology,Neuropathy treatment,Drowsiness
+Mecobal OD,Methylcobalamin,1500 mcg,Tablet,Sun Pharma,Vitamin,Treats B12 deficiency,Nausea
+Methycobal 500,Methylcobalamin,500 mcg,Tablet,Wockhardt,Vitamin,Nerve health supplement,Headache
+Methycobal 1500,Methylcobalamin,1500 mcg,Tablet,Wockhardt,Vitamin,Vitamin B12 replacement,Dizziness
+Cabgolin,Cabergoline,0.5 mg,Tablet,Sun Pharma,Hormonal,Treats hyperprolactinemia,Nausea
+Dostinex,Cabergoline,0.5 mg,Tablet,Pfizer,Hormonal,Reduces prolactin levels,Dizziness
+Deviry 10,Medroxyprogesterone,10 mg,Tablet,Torrent,Hormonal,Treats menstrual disorders,Weight gain
+Deviry 5,Medroxyprogesterone,5 mg,Tablet,Torrent,Hormonal,Hormone therapy,Nausea
+Primolut N,Norethisterone,5 mg,Tablet,Zydus,Hormonal,Delays menstruation,Headache
+Regestrone,Norethisterone,5 mg,Tablet,Torrent,Hormonal,Treats menstrual disorders,Nausea
+Duphaston,Dydrogesterone,10 mg,Tablet,Abbott,Hormonal,Progesterone therapy,Headache
+Susten 200,Progesterone,200 mg,Capsule,Sun Pharma,Hormonal,Supports pregnancy,Drowsiness
+Susten 300,Progesterone,300 mg,Capsule,Sun Pharma,Hormonal,Progesterone supplement,Dizziness
+Gestofit 200,Progesterone,200 mg,Capsule,Torrent,Hormonal,Hormonal support,Nausea
+Gestofit 300,Progesterone,300 mg,Capsule,Torrent,Hormonal,Supports pregnancy,Drowsiness
+Ovral L,Ethinyl Estradiol + Levonorgestrel,Tablet,Tablet,Pfizer,Contraceptive,Oral contraceptive,Nausea
+Novelon,Desogestrel + Ethinyl Estradiol,Tablet,Tablet,MSD,Contraceptive,Birth control,Headache
+Femilon,Desogestrel + Ethinyl Estradiol,Tablet,Tablet,MSD,Contraceptive,Oral contraceptive,Nausea
+Yasmin,Drospirenone + Ethinyl Estradiol,Tablet,Tablet,Bayer,Contraceptive,Prevents pregnancy,Headache
+Unwanted 72,Levonorgestrel,1.5 mg,Tablet,Mankind,Contraceptive,Emergency contraception,Nausea
+i-Pill,Levonorgestrel,1.5 mg,Tablet,Piramal,Contraceptive,Emergency contraceptive,Vomiting
+Pause 500,Tranexamic Acid,500 mg,Tablet,Emcure,Gynecology,Controls heavy bleeding,Nausea
+Trapic 500,Tranexamic Acid,500 mg,Tablet,Cipla,Gynecology,Reduces menstrual bleeding,Dizziness
+Refresh Tears,Carboxymethylcellulose,0.5%,Eye Drops,Allergan,Eye Care,Lubricating eye drops,Temporary blurred vision
+Refresh Liquigel,Carboxymethylcellulose,1%,Eye Drops,Allergan,Eye Care,Treats dry eyes,Blurred vision
+Celluvisc,Carboxymethylcellulose,1%,Eye Drops,Allergan,Eye Care,Dry eye relief,Eye irritation
+Tears Naturale,Hypromellose + Dextran,Eye Drops,Alcon,Eye Care,Lubricating eye drops,Blurred vision
+Genteal,Hypromellose,Eye Gel,Novartis,Eye Care,Dry eye treatment,Temporary blurred vision
+Moxicip,Moxifloxacin,0.5%,Eye Drops,Cipla,Eye Care,Bacterial eye infection,Eye irritation
+Vigamox,Moxifloxacin,0.5%,Eye Drops,Alcon,Eye Care,Antibiotic eye drops,Burning sensation
+Ocuflox,Ofloxacin,0.3%,Eye Drops,Sun Pharma,Eye Care,Treats bacterial conjunctivitis,Eye discomfort
+Ciplox Eye, Ciprofloxacin,0.3%,Eye Drops,Cipla,Eye Care,Antibiotic eye drops,Burning sensation
+Zymaxid,Gatifloxacin,0.5%,Eye Drops,Allergan,Eye Care,Treats eye infections,Eye irritation
+Pred Forte,Prednisolone Acetate,1%,Eye Drops,Allergan,Eye Care,Reduces eye inflammation,Blurred vision
+Flarex,Fluorometholone,0.1%,Eye Drops,Alcon,Eye Care,Treats eye inflammation,Burning sensation
+Tobradex,Tobramycin + Dexamethasone,Eye Drops,Alcon,Eye Care,Eye infection with inflammation,Eye irritation
+Lotepred,Loteprednol,0.5%,Eye Drops,Sun Pharma,Eye Care,Reduces eye inflammation,Blurred vision
+Pataday,Olopatadine,0.2%,Eye Drops,Alcon,Eye Care,Allergic conjunctivitis,Eye irritation
+Olopat,Olopatadine,0.1%,Eye Drops,Cipla,Eye Care,Eye allergy treatment,Burning sensation
+Lubrex,Carboxymethylcellulose,0.5%,Eye Drops,Sun Pharma,Eye Care,Dry eye relief,Blurred vision
+Nasivion Adult,Oxymetazoline,0.05%,Nasal Drops,Merck,ENT,Relieves nasal congestion,Nasal dryness
+Nasivion Pediatric,Oxymetazoline,0.025%,Nasal Drops,Merck,ENT,Nasal decongestant,Burning sensation
+Otrivin Adult,Xylometazoline,0.1%,Nasal Spray,GSK,ENT,Relieves blocked nose,Nasal irritation
+Otrivin Child,Xylometazoline,0.05%,Nasal Spray,GSK,ENT,Nasal congestion,Nasal dryness
+Flomist,Fluticasone,50 mcg,Nasal Spray,Cipla,ENT,Allergic rhinitis,Nose bleed
+Metaspray,Mometasone,50 mcg,Nasal Spray,Cipla,ENT,Seasonal allergies,Nasal irritation
+Nasoclear,Sodium Chloride,0.65%,Nasal Spray,Dr Reddy's,ENT,Saline nasal spray,None
+Solspre,Sodium Chloride,0.65%,Nasal Spray,Sun Pharma,ENT,Nasal moisturizer,None
+Candid Dusting Powder,Clotrimazole,1%,Dusting Powder,Glenmark,Dermatology,Fungal infection,Skin irritation
+Abzorb Dusting Powder,Clotrimazole,1%,Dusting Powder,Sun Pharma,Dermatology,Fungal skin infection,Burning sensation
+Candid Cream,Clotrimazole,1%,Cream,Glenmark,Dermatology,Treats fungal infections,Skin irritation
+Candid B,Clotrimazole + Beclomethasone,1%,Cream,Glenmark,Dermatology,Fungal infection with itching,Skin thinning
+Quadriderm,Beclomethasone + Gentamicin + Clotrimazole,Cream,Cipla,Dermatology,Mixed skin infection,Burning sensation
+Lulifin,Luliconazole,1%,Cream,Cipla,Dermatology,Fungal infection,Skin redness
+Lulibet,Luliconazole,1%,Cream,Glenmark,Dermatology,Ringworm treatment,Burning sensation
+Lulican,Luliconazole,1%,Cream,Sun Pharma,Dermatology,Tinea infection,Itching
+Panderm Plus,Combination,Cream,Macleods,Dermatology,Skin infection,Burning sensation
+Betnovate,Betamethasone,0.1%,Cream,GSK,Dermatology,Eczema treatment,Skin thinning
+Betnovate N,Betamethasone + Neomycin,Cream,GSK,Dermatology,Bacterial skin infection,Skin irritation
+Betnovate C,Betamethasone + Clioquinol,Cream,GSK,Dermatology,Fungal skin infection,Burning sensation
+Soframycin,Framycetin,1%,Cream,Sanofi,Dermatology,Treats cuts and wounds,Rash
+Mupimet,Mupirocin,2%,Ointment,Sun Pharma,Dermatology,Bacterial skin infection,Burning sensation
+T-Bact,Mupirocin,2%,Ointment,GSK,Dermatology,Treats impetigo,Skin irritation
+Fucidin,Fusidic Acid,2%,Cream,Sun Pharma,Dermatology,Bacterial skin infection,Rash
+Lobate,Clobetasol,0.05%,Cream,GSK,Dermatology,Psoriasis treatment,Skin thinning
+Tenovate,Clobetasol,0.05%,Cream,GSK,Dermatology,Severe eczema,Burning sensation
+Permite,Permethrin,5%,Cream,Glenmark,Dermatology,Scabies treatment,Itching
+Scaboma,Permethrin,5%,Lotion,Sun Pharma,Dermatology,Treats scabies,Skin irritation
+Cetraben,Emollient,Cream,GSK,Dermatology,Dry skin moisturizer,None
+Venusia Moisturizer,Moisturizer,Cream,Dr Reddy's,Dermatology,Dry skin care,None
+Atogla Cream,Moisturizer,Cream,Curatio,Dermatology,Eczema moisturizer,None
+Cetaphil Moisturizing Cream,Glycerin + Emollients,Cream,Galderma,Dermatology,Dry skin relief,None
+Moiz Cream,Moisturizer,Cream,Glenmark,Dermatology,Dry skin treatment,None
+Budecort 100,Budesonide,100 mcg,Inhaler,Cipla,Respiratory,Asthma control,Throat irritation
+Budecort 200,Budesonide,200 mcg,Inhaler,Cipla,Respiratory,Asthma maintenance,Hoarseness
+Foracort 100,Budesonide + Formoterol,Inhaler,Cipla,Respiratory,Asthma treatment,Oral thrush
+Foracort 200,Budesonide + Formoterol,Inhaler,Cipla,Respiratory,COPD treatment,Throat irritation
+Foracort 400,Budesonide + Formoterol,Inhaler,Cipla,Respiratory,Severe asthma,Hoarseness
+Asthalin Inhaler,Salbutamol,100 mcg,Inhaler,Cipla,Respiratory,Quick asthma relief,Tremor
+Duolin Inhaler,Ipratropium + Levosalbutamol,Inhaler,Cipla,Respiratory,COPD treatment,Dry mouth
+Duolin Respules,Ipratropium + Levosalbutamol,Respules,Cipla,Respiratory,Nebulization solution,Dry mouth
+Levolin Inhaler,Levosalbutamol,50 mcg,Inhaler,Cipla,Respiratory,Bronchodilator,Tremor
+Rotahaler Device,None,Standard,Device,Cipla,Respiratory,Dry powder inhaler,None
+Dolokind 650,Paracetamol,650 mg,Tablet,Mankind,Painkiller,Relieves fever and pain,Nausea
+Paracip 650,Paracetamol,650 mg,Tablet,Cipla,Painkiller,Reduces fever and headache,Nausea
+PCM 500,Paracetamol,500 mg,Tablet,Ipca,Painkiller,General pain relief,Nausea
+Ibugesic Plus,Ibuprofen + Paracetamol,Tablet,Tablet,Cipla,Painkiller,Relieves pain and inflammation,Stomach irritation
+Nicip,Nimesulide,100 mg,Tablet,Cipla,Painkiller,Treats acute pain,Acidity
+Aceclo Plus,Aceclofenac + Paracetamol,Tablet,Tablet,Aristo,Painkiller,Pain and inflammation,Dizziness
+Rabicip 20,Rabeprazole,20 mg,Tablet,Cipla,Gastric,Treats acidity,Headache
+Rabonik 20,Rabeprazole,20 mg,Tablet,Aristo,Gastric,GERD treatment,Nausea
+Esomac 40,Esomeprazole,40 mg,Tablet,Cipla,Gastric,Acid reflux treatment,Headache
+Nexpro Fast,Esomeprazole + Domperidone,Capsule,Torrent,Gastric,Acidity and nausea,Dry mouth
+Pantakind DSR,Pantoprazole + Domperidone,Capsule,Mankind,Gastric,GERD treatment,Dizziness
+Omez D,Omeprazole + Domperidone,Capsule,Dr Reddy's,Gastric,Acid reflux,Dry mouth
+Amaryl M1,Glimepiride + Metformin,Tablet,Sanofi,Diabetes,Treats type 2 diabetes,Hypoglycemia
+Amaryl M2,Glimepiride + Metformin,Tablet,Sanofi,Diabetes,Controls blood sugar,Hypoglycemia
+Istamet XR,Sitagliptin + Metformin,Tablet,Sun Pharma,Diabetes,Improves blood sugar control,Diarrhea
+Galvus Met,Vildagliptin + Metformin,Tablet,Novartis,Diabetes,Type 2 diabetes management,Nausea
+Januvia,Sitagliptin,100 mg,Tablet,MSD,Diabetes,Controls blood sugar,Headache
+Jardiance,Empagliflozin,10 mg,Tablet,Boehringer Ingelheim,Diabetes,Type 2 diabetes,Frequent urination
+Forxiga,Dapagliflozin,10 mg,Tablet,AstraZeneca,Diabetes,Lowers blood sugar,Urinary infection
+Trajenta,Linagliptin,5 mg,Tablet,Boehringer Ingelheim,Diabetes,Diabetes treatment,Nasopharyngitis
+Olmezest 20,Olmesartan,20 mg,Tablet,Sun Pharma,Blood Pressure,Treats hypertension,Dizziness
+Olmezest AM,Olmesartan + Amlodipine,Tablet,Sun Pharma,Blood Pressure,High blood pressure,Swelling
+Cilacar 10,Cilnidipine,10 mg,Tablet,J B Chemicals,Blood Pressure,Hypertension treatment,Headache
+Cilacar T,Cilnidipine + Telmisartan,Tablet,J B Chemicals,Blood Pressure,Blood pressure control,Dizziness
+Nicardia Retard,Nifedipine,20 mg,Tablet,J B Chemicals,Blood Pressure,Hypertension,Flushing
+Monotrate 20,Isosorbide Mononitrate,20 mg,Tablet,Sun Pharma,Cardiac,Prevents angina,Headache
+Clavam 625,Amoxicillin + Clavulanic Acid,625 mg,Tablet,Alkem,Antibiotic,Treats bacterial infection,Diarrhea
+Taxim O 200,Cefixime,200 mg,Tablet,Alkem,Antibiotic,Treats bacterial infection,Nausea
+Mahacef 200,Cefixime,200 mg,Tablet,Mankind,Antibiotic,Respiratory infections,Diarrhea
+Monocef O,Cefpodoxime,200 mg,Tablet,Aristo,Antibiotic,Treats bacterial infections,Nausea
+Roxid,Roxithromycin,150 mg,Tablet,Alembic,Antibiotic,Respiratory infections,Diarrhea
+Levoflox,Levofloxacin,500 mg,Tablet,Cipla,Antibiotic,Treats bacterial infections,Dizziness
+Cetzine,Cetirizine,10 mg,Tablet,Dr Reddy's,Allergy,Allergy relief,Drowsiness
+Montair LC,Montelukast + Levocetirizine,Tablet,Cipla,Allergy,Allergic rhinitis,Drowsiness
+Alex Syrup,Dextromethorphan + Chlorpheniramine,Syrup,Glenmark,Cough,Dry cough relief,Drowsiness
+Benadryl DR,Dextromethorphan,Syrup,J&J,Cough,Suppresses dry cough,Drowsiness
+Ascoril LS Junior,Ambroxol + Levosalbutamol + Guaifenesin,Syrup,Glenmark,Cough,Pediatric cough syrup,Nausea
+Chericof LS,Ambroxol + Levosalbutamol,Syrup,Cipla,Cough,Relieves productive cough,Dizziness
+Livogen XT,Iron + Folic Acid,Tablet,Abbott,Supplement,Treats iron deficiency,Constipation
+Orofer XT,Iron + Folic Acid,Tablet,Emcure,Supplement,Iron supplement,Nausea
+Calcimax D3,Calcium + Vitamin D3,Tablet,Meyer,Supplement,Calcium supplement,Constipation
+Revital Woman,Multivitamin,Capsule,Sun Pharma,Vitamin,Women's health supplement,Rare allergy
+Revital H Woman,Multivitamin,Capsule,Sun Pharma,Vitamin,Nutritional supplement,Nausea
+Evion LC,Vitamin E + Levocarnitine,Capsule,Merck,Vitamin,Antioxidant supplement,Nausea
+A to Z Gold,Multivitamin,Capsule,Alkem,Vitamin,Daily nutritional support,Upset stomach
+Kojivit Cream,Kojic Acid + Arbutin,Cream,Micro Labs,Dermatology,Reduces pigmentation,Skin irritation
+Melaglow Rich,Glycolic Acid + Kojic Acid,Cream,Abbott,Dermatology,Hyperpigmentation treatment,Burning sensation
+Faceclin Gel,Clindamycin + Nicotinamide,Gel,Abbott,Dermatology,Acne treatment,Dry skin
+Acnesol Gel,Clindamycin,Gel,Sun Pharma,Dermatology,Treats acne,Skin irritation
+Lobate GM,Clobetasol + Gentamicin,Cream,GSK,Dermatology,Inflammatory skin infection,Burning sensation
+Canesten Cream,Clotrimazole,1%,Cream,Bayer,Dermatology,Fungal infection,Skin irritation

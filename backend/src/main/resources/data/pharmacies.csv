@@ -1,0 +1,6 @@
+name,address,city,latitude,longitude,phoneNumber,email,openingTime,closingTime,open24Hours
+Apollo Pharmacy Park Street,12 Park Street,Kolkata,22.5522,88.3529,9876543210,parkstreet@apollo.com,08:00,22:00,false
+MedPlus Gariahat,45 Gariahat Road,Kolkata,22.5186,88.3667,9876543211,gariahat@medplus.com,08:00,23:00,false
+Wellness Forever Salt Lake,Sector V,Kolkata,22.5697,88.4335,9876543212,saltlake@wellness.com,00:00,23:59,true
+LifeCare Pharmacy Behala,Diamond Harbour Road,Kolkata,22.4986,88.3187,9876543213,behala@lifecare.com,09:00,21:00,false
+HealthPlus New Town,Action Area I,Kolkata,22.5867,88.4763,9876543214,newtown@healthplus.com,07:00,22:00,false
